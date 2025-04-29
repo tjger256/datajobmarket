@@ -4,7 +4,7 @@ from io import StringIO
 from datetime import datetime
 import undetected_chromedriver as uc
 
-
+#testgit
 def human_delay(min_delay=1.0, max_delay=3.0):
     time.sleep(random.uniform(min_delay, max_delay))
 
