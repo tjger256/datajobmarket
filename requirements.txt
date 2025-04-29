@@ -1,0 +1,10 @@
+selenium
+undetected-chromedriver
+pandas
+numpy
+openai
+gspread
+oauth2client
+python-dotenv
+google-generativeai
+boto3
