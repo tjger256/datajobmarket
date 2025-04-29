@@ -2,8 +2,8 @@ import time
 import random
 from io import StringIO
 from datetime import datetime
-from driver import human_delay
-from driver import setup_driver
+from driver_cookies import human_delay
+from driver_cookies import setup_driver
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import Keys, ActionChains

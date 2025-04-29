@@ -6,7 +6,7 @@ import undetected_chromedriver as uc
 def setup_driver(headless=False):
     options = uc.ChromeOptions()
     options.add_argument(r"--user-data-dir=C:\\Users\\Will\\AppData\\Local\\Google\\Chrome\\User Data")
-    options.add_argument("--profile-directory=Profile 2")
+    options.add_argument("--profile-directory=Profile 5")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
