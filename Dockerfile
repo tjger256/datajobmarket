@@ -1,5 +1,5 @@
 # 1. Base image with Python 3.13
-FROM python:3.13-slim
+FROM python:3.11-slim 
 
 # 2. Install required system packages for Chrome
 RUN apt update && apt install -y \

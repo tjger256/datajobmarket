@@ -3,13 +3,14 @@ import random
 from io import StringIO
 from datetime import datetime
 import undetected_chromedriver as uc
-
+import os
+import pickle
 #testgit
 def human_delay(min_delay=1.0, max_delay=3.0):
     time.sleep(random.uniform(min_delay, max_delay))
 
 def setup_driver(headless=False):
-    temp_profile_path = r"C:\\Temp\\chrome-temp-profile"  # Change to /tmp for Linux
+    temp_profile_path = "/tmp/chrome-temp-profile"  # Change to /tmp for Linux
     os.makedirs(temp_profile_path, exist_ok=True)
 
     options = uc.ChromeOptions()
