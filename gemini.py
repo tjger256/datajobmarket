@@ -28,6 +28,7 @@ from clean_upload import split_jobs_by_word_limit
 from variables import urls,skill_list
 from prompt import build_prompt
 from driver_cookies import setup_driver
+from webinteraction import handle_linkedin_login
 # Update Google Sheets for just the current chunk
 scope = [
     "https://spreadsheets.google.com/feeds",
@@ -47,7 +48,7 @@ driver = setup_driver()
 if driver is None:
     print("❌ Driver failed to launch. Exiting.")
     exit()
-
+handle_linkedin_login(driver)
 with open("linkedin_jobs_output.txt", "w", encoding="utf-8") as f:
     job_global_idx = 1
 

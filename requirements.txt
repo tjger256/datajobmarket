@@ -8,3 +8,5 @@ oauth2client
 python-dotenv
 google-generativeai
 boto3
+gspread_dataframe
+google-generativeai

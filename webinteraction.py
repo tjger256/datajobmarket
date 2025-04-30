@@ -153,3 +153,18 @@ def scrape_linkedin_jobs(driver, url: str):
         print(f"\n--- Job #{i + 1} ---\n{job['text'][:300]}...\n")
 
     return job_data
+
+def handle_linkedin_login(driver, password="Tai836376@"):
+    try:
+        print("⏳ Checking for password field...")
+        password_input = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.ID, "password"))  # ← ✅ correct ID from your screenshot
+        )
+        password_input.clear()
+        password_input.send_keys(password)
+        print("✅ Entered password.")
+        password_input.submit()
+        return True
+    except TimeoutException:
+        print("❌ Password field not found — maybe already logged in.")
+        return False
