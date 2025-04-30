@@ -23,7 +23,7 @@ from selenium.common.exceptions import TimeoutException
 from google import genai
 
 
-urls = ["https://www.linkedin.com/jobs/search/?currentJobId=4205727374&distance=25&f_TPR=r86400&geoId=103644278&keywords=%22data%20analytics%22",
+urls = ["https://www.linkedin.com/jobs/search/?currentJobId=4205727374&distance=25&f_TPR=r2400&geoId=103644278&keywords=%22data%20analytics%22",
         "https://www.linkedin.com/jobs/search/?currentJobId=4203732064&f_TPR=r86400&geoId=103644278&keywords=%22data%20analyst%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
         "https://www.linkedin.com/jobs/search/?currentJobId=4200849863&f_TPR=r86400&geoId=103644278&keywords=%22data%20scientist%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
         "https://www.linkedin.com/jobs/search/?currentJobId=4201325602&f_TPR=r86400&geoId=103644278&keywords=%22data%20engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",

@@ -130,8 +130,12 @@ def go_to_next_page(driver, max_retries=3):
         return False
     
 # combine all the funtions above
-def scrape_linkedin_jobs(url: str):
-    driver = setup_driver()
+
+def scrape_linkedin_jobs(driver, url: str):
+    if driver is None:
+        print(f"🚫 Driver not available. Skipping: {url}")
+        return []
+
     driver.get(url)
     print(" 🚀 Page loaded.")
     human_delay(2, 3)
@@ -142,8 +146,8 @@ def scrape_linkedin_jobs(url: str):
         click_all_jobs_on_page(driver, job_data)
         if not go_to_next_page(driver):
             break
+
     print(f" 🚜 Finished scraping. Total job posts: {len(job_data)}")
-    driver.quit()
 
     for i, job in enumerate(job_data):
         print(f"\n--- Job #{i + 1} ---\n{job['text'][:300]}...\n")

@@ -27,6 +27,7 @@ from clean_upload import clean_and_upload_job_df
 from clean_upload import split_jobs_by_word_limit
 from variables import urls,skill_list
 from prompt import build_prompt
+from driver_cookies import setup_driver
 # Update Google Sheets for just the current chunk
 scope = [
     "https://spreadsheets.google.com/feeds",
@@ -40,27 +41,38 @@ skills_sheet = client.open("skillsets").sheet1
 last_row = len(sheet.col_values(1)) + 1
 next_row = len(skills_sheet.col_values(1)) + 1
 
+# 🧠 Initialize driver only once
+
+driver = setup_driver()
+if driver is None:
+    print("❌ Driver failed to launch. Exiting.")
+    exit()
+
 with open("linkedin_jobs_output.txt", "w", encoding="utf-8") as f:
-    job_global_idx = 1  # ← Global counter
+    job_global_idx = 1
 
     for url_idx, url in enumerate(urls, start=1):
-        results = scrape_linkedin_jobs(url) 
+        results = scrape_linkedin_jobs(driver, url)  # Pass the same driver
+        if not results:
+            continue
+
         df_keys = create_df_keys(results, skill_list)
-
-        # Upload to Google Sheets and then update the next row tracker
         uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet, next_row)
-        next_row += uploaded_rows  # ✅ safely shift pointer based on true written count
+        next_row += uploaded_rows
 
-        # Write text output
         f.write(f"########## URL #{url_idx} ##########\n")
         f.write(f"Scraped from: {url}\n\n")
-        
+
         for job in results:
             f.write(f"--- Job #{job_global_idx} ---\n")
             f.write(f"Job Text:\n{job['text']}\n")
             f.write(f"Job Link: {job['job_link']}\n")
             f.write("\n" + "=" * 80 + "\n\n")
             job_global_idx += 1
+
+# ✅ Done scraping, now quit the driver
+driver.quit()
+
 # Run it
 chunks = split_jobs_by_word_limit("linkedin_jobs_output.txt", max_words=15000)
 
