@@ -35,7 +35,7 @@ def delete_and_create_dir(path):
 
 
 # Main driver setup function
-def setup_driver(headless=False):
+def setup_driver(headless=True):
     temp_profile_path = r"C:\Temp\chrome-temp-profile"
     delete_and_create_dir(temp_profile_path)
 

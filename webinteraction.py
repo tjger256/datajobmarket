@@ -43,7 +43,7 @@ def click_all_jobs_on_page(driver, job_data):
             # Scroll to and click the job listing
             ActionChains(driver).move_to_element(job).pause(random.uniform(0.3, 0.5)).click().perform()
             print(f"🗁 Clicked job #{idx}")
-            human_delay(1.2, 2)
+            human_delay(1.5, 2)
 
             # Try extracting the job detail panel
             try:
