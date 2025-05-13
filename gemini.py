@@ -42,7 +42,7 @@ skills_sheet = client.open("skillsets").sheet1
 last_row = len(sheet.col_values(1)) + 1
 next_row = len(skills_sheet.col_values(1)) + 1
 
-# 🧠 Initialize dsriver only once
+# 🧠 Initialize driver only once
 
 driver = setup_driver()
 if driver is None:
