@@ -29,7 +29,7 @@ from variables import urls,skill_list
 from prompt import build_prompt
 from driver_cookies import setup_driver
 from webinteraction import handle_linkedin_login
-# Update Google Sheets for just the current chunk
+# Update G oogle Sheets for just the current chunk
 scope = [
     "https://spreadsheets.google.com/feeds",
     "https://www.googleapis.com/auth/spreadsheets",
