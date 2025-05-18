@@ -19,7 +19,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import undetected_chromedriver as uc
 from google import genai
 
-#Importing functionsss
+#Importing functionss
 from webinteraction import scrape_linkedin_jobs
 from key_matching import create_df_keys
 from clean_upload import process_and_upload_keywords_to_sheets
