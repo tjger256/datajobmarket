@@ -36,4 +36,4 @@ RUN pip install --no-cache-dir --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
 # 7. Set the default command to run the main script
-CMD ["python", "gemini.py"]
+CMD ["python", "-u", "gemini.py"]

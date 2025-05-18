@@ -5,17 +5,17 @@ from gspread_dataframe import set_with_dataframe
 import pandas as pd
 import numpy as np
 # This will clean up and upload to google sheet
-def process_and_upload_keywords_to_sheets(df_keys, skills_sheet, next_row):
-    # Drop unnecessary columns
-    df_keys.drop(columns="text", inplace=True)
-    
+def process_and_upload_keywords_to_sheets(df_keys, skills_sheet):
+    # Drop unnecessary column
+    df_keys.drop(columns="text", inplace=True, errors="ignore")
+
     # Extract job ID
     df_keys["job_id"] = df_keys["job_link"].apply(
         lambda x: re.search(r"linkedin\.com/jobs/view/(\d{10})", x).group(1)
         if isinstance(x, str) and re.search(r"linkedin\.com/jobs/view/(\d{10})", x)
         else ""
     )
-    df_keys.drop(columns=["job_link", "index"], inplace=True)
+    df_keys.drop(columns=["job_link", "index"], inplace=True, errors="ignore")
 
     # Clean keywords
     df_keys.dropna(subset=["job_id", "keywords"], inplace=True)
@@ -30,11 +30,18 @@ def process_and_upload_keywords_to_sheets(df_keys, skills_sheet, next_row):
     col = df_keys.pop("job_id")
     df_keys.insert(0, "job_id", col)
 
-    # Upload to Google Sheets
+    # Recalculate next available row before each upload
+    next_row = len(skills_sheet.col_values(1)) + 1
+
+    # Optional: insert header if sheet is empty
+    if next_row == 1:
+        set_with_dataframe(skills_sheet, pd.DataFrame(columns=["job_id", "keywords"]), row=1)
+        next_row += 1
+
+    # Upload to Google Sheets (no header this time)
     set_with_dataframe(skills_sheet, df_keys, row=next_row, include_column_header=False)
     print(f"✅ Uploaded {len(df_keys)} skill rows to Google Sheets!")
 
-    # Return the number of rows uploaded so we can update next_row
     return len(df_keys)
 
 

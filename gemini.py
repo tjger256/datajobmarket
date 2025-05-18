@@ -1,4 +1,4 @@
-
+print("🚀 Docker container started")
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import Keys, ActionChains
@@ -19,7 +19,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import undetected_chromedriver as uc
 from google import genai
 
-#Importing fundcwtionsw
+#Importing functions
 from webinteraction import scrape_linkedin_jobs
 from key_matching import create_df_keys
 from clean_upload import process_and_upload_keywords_to_sheets
@@ -29,7 +29,7 @@ from variables import urls,skill_list
 from prompt import build_prompt
 from driver_cookies import setup_driver
 from webinteraction import handle_linkedin_login
-# Update G oogle Shewets for just the current chunk
+# Update Google Sheets for just the current chunk
 scope = [
     "https://spreadsheets.google.com/feeds",
     "https://www.googleapis.com/auth/spreadsheets",
@@ -42,37 +42,52 @@ skills_sheet = client.open("skillsets").sheet1
 last_row = len(sheet.col_values(1)) + 1
 next_row = len(skills_sheet.col_values(1)) + 1
 
-# 🧠 Initiali2ze driver only once
+# 🧠 Initialize driver only once
 
-driver = setup_driver()
-if driver is None:
-    print("❌ Driver failed to launch. Exiting.")
-    exit()
-handle_linkedin_login(driver)
 with open("linkedin_jobs_output.txt", "w", encoding="utf-8") as f:
     job_global_idx = 1
 
     for url_idx, url in enumerate(urls, start=1):
-        results = scrape_linkedin_jobs(driver, url)  # Pass the same driver
-        if not results:
-            continue
+        print(f"\n🌐 Starting browser for URL #{url_idx}: {url}")
 
-        df_keys = create_df_keys(results, skill_list)
-        uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet, next_row)
-        next_row += uploaded_rows
+        driver = None
+        try:
+            # 🧠 Setup driver
+            driver = setup_driver()
+            if driver is None:
+                print("❌ Driver failed to launch. Skipping URL.")
+                continue
 
-        f.write(f"########## URL #{url_idx} ##########\n")
-        f.write(f"Scraped from: {url}\n\n")
+            handle_linkedin_login(driver)
 
-        for job in results:
-            f.write(f"--- Job #{job_global_idx} ---\n")
-            f.write(f"Job Text:\n{job['text']}\n")
-            f.write(f"Job Link: {job['job_link']}\n")
-            f.write("\n" + "=" * 80 + "\n\n")
-            job_global_idx += 1
+            # 🧲 Scrape job data
+            results = scrape_linkedin_jobs(driver, url)
+            if not results:
+                print("⚠️ No results returned.")
+                continue
 
-# ✅ Done scraping, now quit the driver
-driver.quit()
+            # 🔍 Process and upload keywords
+            df_keys = create_df_keys(results, skill_list)
+            uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet)
+            print(f"✅ Uploaded {uploaded_rows} keyword rows.")
+
+            # 📝 Write to text file
+            f.write(f"########## URL #{url_idx} ##########\n")
+            f.write(f"Scraped from: {url}\n\n")
+            for job in results:
+                f.write(f"--- Job #{job_global_idx} ---\n")
+                f.write(f"Job Text:\n{job['text']}\n")
+                f.write(f"Job Link: {job['job_link']}\n")
+                f.write("\n" + "=" * 80 + "\n\n")
+                job_global_idx += 1
+
+        except Exception as e:
+            print(f"❌ Error while processing URL #{url_idx}: {e}")
+
+        finally:
+            if driver:
+                driver.quit()
+
 
 # Run it
 chunks = split_jobs_by_word_limit("linkedin_jobs_output.txt", max_words=15000)
@@ -89,7 +104,7 @@ for i, chunk in enumerate(chunks, 1):
 load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
-
+print("🔑 Loaded API key from .env:", api_key)
 for i, input_string in enumerate(chunks):
     print(f"\n🔄 Processing chunk #{i + 1}")
 

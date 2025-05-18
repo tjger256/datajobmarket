@@ -31,15 +31,15 @@ def delete_and_create_dir(path):
                 raise
 
     # Create fresh directory
-    os.makedirs(path, exist_ok=False)
+    os.makedirs(path, exist_ok=True)
 
 
 # Main driver setup function
-def setup_driver(headless=True):
-    temp_profile_path = r"C:\Temp\chrome-temp-profile"
+def setup_driver(headless=False):
+    temp_profile_path = "/tmp/chrome-profile"
     delete_and_create_dir(temp_profile_path)
 
-    # Set Chrome options
+    # Chrome options
     options = uc.ChromeOptions()
     options.add_argument(f"--user-data-dir={temp_profile_path}")
     options.add_argument("--disable-blink-features=AutomationControlled")
@@ -49,36 +49,61 @@ def setup_driver(headless=True):
     if headless:
         options.add_argument("--headless=new")
         options.add_argument("--window-size=1920,1080")
+        options.add_argument("--disable-gpu")
 
-    # Launch undetected Chrome driver
+    # Launch Chrome
     driver = uc.Chrome(options=options, enable_automation=False, version_main=135)
-
     human_delay()
 
-    # Go to LinkedIn to initialize cookies
+    # Load LinkedIn homepage
     driver.get("https://www.linkedin.com")
     human_delay()
 
-    try:
-        cookie_path = (
-            r"C:\Users\Will\Desktop\Permanent file\Linkedin project\organizer\linkedin_cookies.pkl"
-        )
-        with open(cookie_path, "rb") as f:
-            cookies = pickle.load(f)
+    # 🔁 Refresh once to ensure full session initialization
+    driver.refresh()
+    human_delay(1.5, 2.5)
 
-        for cookie in cookies:
-            if "sameSite" in cookie and cookie["sameSite"] == "None":
-                cookie["sameSite"] = "Strict"
-            try:
-                driver.add_cookie(cookie)
-            except Exception as e:
-                print(f"⚠️ Could not add cookie: {e}")
+    # Try cookie files
+    cookie_files = [
+        "linkedin_cookies.pkl",
+        "linkedin_cookies_2.pkl",
+        "linkedin_cookies_3.pkl"
+    ]
 
-        driver.get("https://www.linkedin.com/feed")
-        human_delay(2, 4)
+    success = False
 
-    except FileNotFoundError:
-        print("❌ linkedin_cookies.pkl not found. Please save cookies first.")
+    for filename in cookie_files:
+        try:
+            cookie_path = os.path.join(os.getcwd(), filename)
+            with open(cookie_path, "rb") as f:
+                cookies = pickle.load(f)
+
+            for cookie in cookies:
+                if "sameSite" in cookie and cookie["sameSite"] == "None":
+                    cookie["sameSite"] = "Strict"
+                try:
+                    driver.add_cookie(cookie)
+                except Exception as e:
+                    print(f"⚠️ Could not add cookie from {filename}: {e}")
+
+            # Reload to apply cookies
+            driver.get("https://www.linkedin.com")
+            human_delay(1.5, 2.5)
+
+            # Try accessing feed
+            driver.get("https://www.linkedin.com/feed")
+            human_delay(2, 4)
+
+            print(f"✅ Successfully logged in using {filename}")
+            success = True
+            break
+        except FileNotFoundError:
+            print(f"❌ {filename} not found.")
+        except Exception as e:
+            print(f"⚠️ Failed to use {filename}: {e}")
+
+    if not success:
+        print("❌ No working cookie file found.")
         driver.quit()
         return None
 
