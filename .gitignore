@@ -2,3 +2,7 @@
 .env
 .env.local
 jobs-scraping-data-*.json
+linkedin_cookies.plk
+linkedin_cookies2.plk
+linkedin.pem
+linkedin.ppk
