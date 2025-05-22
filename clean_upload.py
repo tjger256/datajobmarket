@@ -26,7 +26,7 @@ def process_and_upload_keywords_to_sheets(df_keys, skills_sheet):
     df_keys = df_keys[df_keys["keywords"] != ""]
     df_keys.drop_duplicates(subset=["job_id", "keywords"], inplace=True)
 
-    # Ensure job_id is first column
+    # Ensure job_id is first columns
     col = df_keys.pop("job_id")
     df_keys.insert(0, "job_id", col)
 
