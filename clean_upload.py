@@ -28,7 +28,7 @@ def process_and_upload_keywords_to_sheets(df_keys, skills_sheet):
 
     # Ensure job_id is first column
     col = df_keys.pop("job_id")
-    df_keys.insert(0, "job_id", col)s
+    df_keys.insert(0, "job_id", col)
 
     # Recalculate next available row before each upload
     next_row = len(skills_sheet.col_values(1)) + 1
