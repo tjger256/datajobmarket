@@ -147,3 +147,80 @@ def split_jobs_by_word_limit(file_path, max_words=15000):
 # Run it
 
 
+import os
+import pymysql
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# 🔹 Setup RDS connection
+rds_conn = pymysql.connect(
+    host=os.getenv("RDS_HOST"),
+    user=os.getenv("RDS_USER"),
+    password=os.getenv("RDS_PASSWORD"),
+    database=os.getenv("RDS_DATABASE"),
+    charset="utf8mb4"
+)
+rds_cursor = rds_conn.cursor()
+
+# 🔹 Upload jobs to RDS
+def upload_jobs_to_rds(df):
+    for _, row in df.iterrows():
+        try:
+            rds_cursor.execute("""
+                INSERT INTO jobs (
+                    company_name, industries, job_title, city, state,
+                    employment_type, seniority_level, min_salary, max_salary,
+                    applicant_count, job_link, job_type, requirements,
+                    keywords, reposted, min_year_experience, hour_posted,
+                    date_imported, job_id, role, job_posted_time
+                )
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+                        %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                ON DUPLICATE KEY UPDATE
+                    applicant_count = VALUES(applicant_count),
+                    max_salary = VALUES(max_salary),
+                    min_salary = VALUES(min_salary)
+            """, (
+                row.get("company_name"),
+                row.get("industry"),
+                row.get("job_title"),
+                row.get("city"),
+                row.get("state"),
+                row.get("employment_type"),
+                row.get("seniority_level"),
+                row.get("min_salary"),
+                row.get("max_salary"),
+                row.get("applicant_count"),
+                row.get("job_link"),
+                row.get("job_type"),
+                row.get("requirements"),
+                row.get("keywords"),
+                row.get("reposted"),
+                row.get("min_year_experience"),
+                row.get("hour_posted"),
+                row.get("date_imported"),
+                int(row.get("job_id")),
+                row.get("role"),
+                row.get("job_posted_time")
+            ))
+        except Exception as e:
+            print(f"❌ Failed to insert job_id {row.get('job_id')}: {e}")
+    rds_conn.commit()
+    print("✅ Upload to RDS complete!")
+
+def upload_keywords_to_rds(df_keys):
+    for _, row in df_keys.iterrows():
+        try:
+            rds_cursor.execute("""
+                INSERT INTO job_keywords (job, keywords)
+                VALUES (%s, %s)
+                ON DUPLICATE KEY UPDATE keywords = VALUES(keywords)
+            """, (
+                int(row["job_id"]),
+                row["keywords"]
+            ))
+        except Exception as e:
+            print(f"❌ Keyword insert failed for job_id {row['job_id']}: {e}")
+    rds_conn.commit()
+    print("✅ Keyword upload to RDS complete.")

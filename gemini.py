@@ -18,6 +18,7 @@ from gspread_dataframe import set_with_dataframe
 from oauth2client.service_account import ServiceAccountCredentials
 import undetected_chromedriver as uc
 from google import genai
+import pymysql
 
 #Importing functions
 from webinteraction import scrape_linkedin_jobs
@@ -29,6 +30,21 @@ from variables import urls,skill_list
 from prompt import build_prompt
 from driver_cookies import setup_driver
 from webinteraction import handle_linkedin_login
+from clean_upload import upload_jobs_to_rds
+from clean_upload import upload_keywords_to_rds
+
+
+## AWS database connection
+rds_conn = pymysql.connect(
+    host=os.getenv("RDS_HOST"),
+    user=os.getenv("RDS_USER"),
+    password=os.getenv("RDS_PASSWORD"),
+    database=os.getenv("RDS_DATABASE"),
+    charset="utf8mb4"
+)
+rds_cursor = rds_conn.cursor()
+
+
 # Update Google Sheets for just the current chunk
 scope = [
     "https://spreadsheets.google.com/feeds",
@@ -69,6 +85,7 @@ with open("linkedin_jobs_output.txt", "w", encoding="utf-8") as f:
             # 🔍 Process and upload keywords
             df_keys = create_df_keys(results, skill_list)
             uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet)
+            upload_keywords_to_rds(df_keys)
             print(f"✅ Uploaded {uploaded_rows} keyword rows.")
 
             # 📝 Write to text file
@@ -142,7 +159,9 @@ for i, input_string in enumerate(chunks):
         try:
             last_row = len(sheet.col_values(1)) + 1
             clean_and_upload_job_df(df, sheet, i)
+            upload_jobs_to_rds(df)
             print(f"✅ Data uploaded for chunk #{i + 1}")
+            
         except Exception as e:
             print(f"❌ Upload failed for chunk #{i + 1}: {e}")
             continue
