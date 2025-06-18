@@ -84,9 +84,11 @@ with open("linkedin_jobs_output.txt", "w", encoding="utf-8") as f:
 
             # 🔍 Process and upload keywords
             df_keys = create_df_keys(results, skill_list)
-            uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet)
-            upload_keywords_to_rds(df_keys)
-            print(f"✅ Uploaded {uploaded_rows} keyword rows.")
+            cleaned_df_keys, uploaded_rows = process_and_upload_keywords_to_sheets(df_keys, skills_sheet)
+            inserted_rds_rows = upload_keywords_to_rds(cleaned_df_keys)
+
+            print(f"✅ Uploaded {uploaded_rows} keyword rows to Google Sheets.")
+            print(f"✅ Uploaded {inserted_rds_rows} keyword rows to RDS.")
 
             # 📝 Write to text file
             f.write(f"########## URL #{url_idx} ##########\n")
@@ -155,13 +157,13 @@ for i, input_string in enumerate(chunks):
             print(f"❌ Failed to parse response for chunk #{i + 1}: {e}")
             continue
 
-        # Upload to Google Sheet
+        # Upload to Google Sheet and rds
         try:
             last_row = len(sheet.col_values(1)) + 1
-            clean_and_upload_job_df(df, sheet, i)
-            upload_jobs_to_rds(df)
+            df_cleaned = clean_and_upload_job_df(df, sheet, i)  # Clean + upload to Sheets
+            upload_jobs_to_rds(df_cleaned, rds_conn, rds_cursor)                      # Upload to RDS
             print(f"✅ Data uploaded for chunk #{i + 1}")
-            
+
         except Exception as e:
             print(f"❌ Upload failed for chunk #{i + 1}: {e}")
             continue
@@ -170,5 +172,3 @@ for i, input_string in enumerate(chunks):
         print(f"❌ Failed to process chunk #{i + 1}: {e}")
         continue  
     
-
-

@@ -16,7 +16,7 @@ def setup_driver(headless=False):
         options.add_argument("--headless=new")
         options.add_argument("--window-size=1920,1080")
 
-    driver = uc.Chrome(options=options, enable_automation=False)
+    driver = uc.Chrome(version_main=136, options=options, enable_automation=False)
     time.sleep(5)  # Let profile load fully
     return driver
 
@@ -27,7 +27,7 @@ driver.get("https://www.linkedin.com")
 input("🧠 After logging in manually, press Enter to save cookies...")
 
 # ✅ Save cookies
-with open("linkedin_cookies2.pkl", "wb") as f:
+with open("linkedin_cookies.pkl", "wb") as f:
     pickle.dump(driver.get_cookies(), f)
 
 print("✅ Cookies saved to linkedin_cookies.pkl")

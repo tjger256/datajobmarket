@@ -1,0 +1,1649 @@
+########## URL #1 ##########
+Scraped from: https://www.linkedin.com/jobs/search/?currentJobId=4205727374&distance=25&f_TPR=r5400&geoId=103644278&keywords=%22data%20analytics%22
+
+--- Job #1 ---
+Job Text:
+L.E.K. Consulting
+Share
+Show more options
+Data & Analytics Product Manager, Healthcare Analytics 
+Boston, NY · 1 hour ago · 3 people clicked apply
+Full-time Mid-Senior level
+Curious where you stand? See how you compare to 3 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data & Analytics Product Manager, Healthcare Analytics  at L.E.K. Consulting
+About the job
+About L.E.K. Consulting
+
+L.E.K. Consulting is a global management consulting firm that uses deep industry expertise and rigorous analysis to help business leaders achieve practical results with real impact. We are uncompromising in our approach to helping clients consistently make better decisions, deliver improved business performance and create greater shareholder returns. The firm advises and supports global companies that are leaders in their industries — including the largest private- and public-sector organizations, private equity firms, and emerging entrepreneurial businesses. Founded in 1983, L.E.K. employs more than 2,200 professionals across the Americas, Asia-Pacific and Europe and is recognized as a top consulting firm to work for. For more information, go to www.lek.com. 
+
+Overview Of Function
+
+We are seeking a Product Manager to lead the development, growth, and delivery of L.E.K.’s Healthcare Data & Analytics commercial offerings. This high-impact role will work within our growing Data & Analytics (D&A) team and collaborate with Life Sciences and Healthcare sector leaders to shape data product strategy, execute roadmap development, drive adoption, support delivery and client development, and build scalable, insight-driven solutions leveraging Healthcare Data assets (E.g., Real World Claims Data, Electronic Health Records/Electronic Medical Records (EHR/EMR), Health Economics & Outcomes Research (HEOR), Social Determinants of Health (SDOH), clinical trials, PubMed, scientific literature and clinical research, genomics / molecular data, patents and funding, Hospital and physician data, Healthcare payer / insurance data, CMS etc.)
+
+You will serve as a bridge between commercial strategy, analytics, and technology, delivering cutting-edge data & analytics capabilities to internal stakeholders and external clients alike.
+
+Key Responsibilities
+
+Proposition Leadership & Strategy
+
+Own the product lifecycle for L.E.K.’s suite of Healthcare Data Analytics tools and offerings, particularly RWD —from ideation through development, launch, and iteration
+Define and evolve the proposition roadmap based on market needs, client demand, and internal strategic priorities
+Serve as the voice of the customer for healthcare/life sciences clients, ensuring our Healthcare and RWD solutions solve meaningful business problems (e.g., market access, HEOR, commercial optimization)
+Translate business objectives and scientific goals into repeatable project offerings / modules and enhancements to existing offerings
+
+Solution Development
+
+Lead cross-functional teams - including data scientists, engineers, consultants, and domain experts—to build robust, scalable Healthcare data offerings for clients
+Partner with sector leaders and clients to define high-value use cases and deliver repeatable analytical solutions
+Lead the end-to-end product lifecycle, from ideation to market launch to enhancement phases for Healthcare data products and consulting services
+Embed modern analytics methods (e.g., cohort building, patient journey, predictive modeling) to enhance product capabilities
+
+Client Project Execution & Leadership
+
+Mentor/manage a team of rotational RWD data analysts that execute analytics on RWD related client engagements, and support / oversee directly on high-visibility or critical projects
+Act as the interface between the RWD team, consulting partners/teams, and clients ensuring alignment on product & analytic needs
+Lead scoping, deployment, and integration of Healthcare data products and solutions within consulting projects & client deliverables
+Directly support ongoing client development / proposals with methodological input, sample output, cohort definitions, team scoping, direct client pitching, and any other client development needs
+Partner with sector teams to develop thought leadership pieces based on healthcare data products you oversee
+
+Stakeholder Collaboration & Enablement
+
+Educate consulting teams on how to leverage healthcare data products, ensuring adoption, effective usage, and smooth integration of products into casework and consulting workflows via training sessions, emails, and 1-1 meetings as needed
+Develop playbooks, best practices, and enablement materials for internal and external stakeholders
+Collaborate with business functions (Data & Analytics, Knowledge Management, Information & Research, Marketing etc.) to drive awareness, adoption and implementation of healthcare data products and solutions
+
+Capability Building & Thought Leadership
+
+Act as a key SME for RWD and other Healthcare Data products across the organization and represent the firm’s capabilities to both internal stakeholders and external clients
+Monitor trends in the RWD and healthcare data analytics landscape, identifying opportunities for innovation and differentiation
+Stay on-top of key data sources, vendors, and players to ensure our resources, approaches, and products/solutions remain competitive with the market
+Lead the evaluation and testing of alternative healthcare data vendors (particularly RWD) and provide input and thought leadership into contract negotiations
+
+Qualifications & Experience
+
+4-6 years of experience in product management, analytics, or consulting, with significant exposure to real world data and healthcare/life sciences use cases.
+Deep understanding of RWD sources (claims, EHR, registries) and related standards (ICD, CPT, NDC, SNOMED, LOINC, etc.).
+Proven success in launching and scaling data or analytics products within healthcare or pharmaceutical sectors.
+Familiarity with tools and programming languages such as SQL, Python, R, SAS, and modern data platforms (Snowflake, Databricks, AWS/Azure/GCP).
+Strong business acumen with the ability to align product development to client value and industry trends.
+Excellent interpersonal and communication skills, with experience engaging cross-functional teams and senior stakeholders.
+Consulting experience in healthcare or life sciences is a strong plus.
+Bachelor’s or Master’s degree in a relevant field such as Public Health, Life Sciences, Data Science, Biostatistics, Engineering, or Business.
+
+Why Join L.E.K.?
+
+Drive the growth of a rapidly expanding data-driven capability in a top-tier strategy consulting firm.
+Collaborate with C-suite clients and life sciences innovators to deliver market-shaping insights.
+Be a leader in L.E.K.’s evolving healthcare analytics and data solutions strategy.
+Join a supportive, entrepreneurial, and intellectually curious team with access to cutting-edge tools and professional development.
+
+For more information and to apply, go to https://www.lek.com/join-lek/apply/apply-now
+
+Applicants must be currently authorized to work in the United States on a full-time basis 
+L.E.K. Consulting is an Equal Opportunity Employer
+L.E.K. Consulting has a hybrid work model in place for our U.S. offices.
+In California, Illinois, and New York, the base salary is between $135,000 - $165,000 (USD); placement within this range will vary based on experience and skill level. L.E.K. also offers a performance bonus, profit sharing and other benefits. 
+Qualifications
+Job Link: https://www.linkedin.com/jobs/view/4236298977/?alternateChannel=search&refId=OBmRI%2BDRdvEnIgz71Wtsuw%3D%3D&trackingId=sIqBXVZOV0dRXO0hZfSLDQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #2 ---
+Job Text:
+NTT DATA North America
+Share
+Show more options
+Data & Analytics Consulting Director 
+Plano, TX · Reposted 1 hour ago · 64 people clicked apply
+Full-time Director
+Curious where you stand? See how you compare to 64 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data & Analytics Consulting Director  at NTT DATA North America
+About the job
+Req ID: 298723
+
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Data & Analytics Consulting Director to join our team in Plano, Texas (US-TX), United States (US).
+
+ As an Gen AI Director with NTT DATA’s Data and Artificial Intelligence practice, you will colloaborate with a talented team of AI professionals, ensure successful project execution in a client-facing role, and contribute to business growth through your expertise in AI solutions. 
+
+ Key Responsibilities: 
+
+ Lead and oversee the delivery of AI projects within the practice, ensuring they meet quality standards and are completed on time and within budget. 
+ Develop and implement strategic plans for the AI practice, aligning with overall business objectives. 
+ Mentor and guide AI teams, fostering a culture of innovation, collaboration, and continuous improvement. 
+ Establish and maintain best practices for AI project management, including methodologies, tools, and standards. 
+ Provide technical leadership and guidance in AI technologies, including machine learning, deep learning, natural language processing, and GenAI. 
+ Ensure the technical quality of AI solutions, including architecture, design, and implementation. 
+ Stay updated with the latest advancements in AI technologies and integrate relevant innovations into the practice. 
+ Participate in presales activities, including client presentations, proposal development, and solution demonstrations. 
+ Collaborate with sales and business development teams to identify new opportunities and develop AI solutions that meet client needs. 
+ Build strong relationships with clients, understanding their business challenges and proposing tailored AI solutions. 
+ Develop and present compelling AI use cases and success stories to highlight the value of AI solutions to prospective clients. 
+ Scope, plan, and manage complex AI projects from inception to completion. 
+ Collaborate with cross-functional teams, including data scientists, engineers, and business analysts, to deliver comprehensive AI solutions. 
+ Foster a collaborative environment that encourages knowledge sharing, innovation, and experimentation. 
+ Drive the development of frameworks, capabilities, and features for the AI practice, enhancing the overall quality and impact of AI solutions. 
+ Engage with clients at all levels to understand their AI needs and business objectives. 
+ Provide strategic advice and thought leadership on AI initiatives, helping clients leverage AI to drive business value. 
+ Ensure exceptional client satisfaction by delivering high-quality AI solutions that meet or exceed client expectations while maintaining a utilization of at least 50%. 
+
+Basic Qualifications
+
+ 10+ years of designing solutions utilizing key data providers and hyperscalers (e.g., Snowflake, Databricks, AWS Sagemaker/Bedrock, GCP AI Platform/Vertex AI, and Azure) 
+ 10+ years hands-on experience working with large scale data solutions; covering strategy, data preparation, data quality, ETL, data viz. 
+ 4+ years of experience with end-to-end AI/ML solutions 
+ 3+ years experience with AI frameworks (e.g., PyTorch) and programming (e.g., Python) and building and deploying AI models 
+ Bachelor's degree or equivalent (minimum 12 years) work experience. 
+ 1+ years experience with GenAI; Advanced RAG, Agentic Frameworks, GANNs, Transformers, LLMs (e.g., gpt4, Llama) 
+ Bachelor's degree or equivalent (minimum 12 years) work experience. 
+ Ability to travel at least 10-25%. 
+
+ Preferred Skills: 
+
+ AI/ML certification(s) from any of the MAAG Clouds / renowned 3rd party platforms 
+ Exposure working with LLM Architecture/fine-tuning LLM’s 
+ Knowledge of generative models, GAN’s and transformer-based models 
+ Knowledge of ethical standards related to AI 
+ Proficiency in programming languages 
+ Domain expertise in one of the following: Healthcare, Financial Services, Manufacturing, and/or Public Sector 
+
+#GenAINTT #DAAI
+
+Where required by law, NTT DATA provides a reasonable range of compensation for specific roles. The starting pay range for this remote role is $187,400.00 - $225,000.00. This range reflects the minimum and maximum target compensation for the position across all US locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications.
+
+About NTT DATA
+
+NTT DATA is a $30 billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long term success. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure and connectivity. We are one of the leading providers of digital and AI infrastructure in the world. NTT DATA is a part of NTT Group, which invests over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. Visit us at us.nttdata.com
+
+ NTT DATA is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team.
+Qualifications
+Job Link: https://www.linkedin.com/jobs/view/4206574362/?alternateChannel=search&refId=OBmRI%2BDRdvEnIgz71Wtsuw%3D%3D&trackingId=59sRIY3oBPrLWQ9N1Ed1nA%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+########## URL #2 ##########
+Scraped from: https://www.linkedin.com/jobs/search/?currentJobId=4203732064&f_TPR=r8400&geoId=103644278&keywords=%22data%20analyst%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+--- Job #3 ---
+Job Text:
+Vector Consulting, Inc
+Share
+Show more options
+Data Analyst 
+Nashville, TN · 2 hours ago · 8 people clicked apply
+On-site Contract Mid-Senior level
+Curious where you stand? See how you compare to 8 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Analyst  at Vector Consulting, Inc
+About the job
+Our government client is looking for an experienced Data Analyst on an onsite 6+ months contract opportunity in Nashville, TN.
+
+Position: Data Analyst
+
+Summary
+
+We are seeking a detail-oriented Data Mapping & Integrity Analyst to lead the identification, documentation, and integrity assessment of data fields within the LARS application. This role requires strong SQL, Excel, and data mining expertise to ensure consistent, reliable data usage across multiple deliverables, including extracts, correspondence, certificates, and API data feeds. The ideal candidate will possess excellent analytical, communication, and collaboration skills to engage stakeholders and document findings to ensure data accuracy and best practices.
+
+The primary goal is to define and map all fields used within the LARS application comprehensively. This includes understanding how each field is utilized across various deliverables such as extracts, correspondence, certificates, and API data feeds. Completion of this effort will be a detailed document that accurately maps all fields, ensuring that data is consistent and reliable.
+
+This role is designed as a 6-month engagement, during which the primary focus will be on data mapping and integrity assessment within the LARS application. Upon successful completion of the project, candidates who demonstrate proficiency in other key areas may have the opportunity to transition into another role with the HLR Application Support team and extend the engagement while contributing to system enhancements and operational support initiatives.
+
+Key Responsibilities
+
+Field Identification & Documentation: Identify and document all existing fields in the LARS application and analyze their usage across various deliverables. 
+Data Mapping: Develop a comprehensive field map, detailing data types, relationships, dependencies, and usage guidelines. 
+Data Integrity Assessment: Conduct thorough assessments to ensure data consistency, reliability, and adherence to best practices. 
+Stakeholder Collaboration: Engage HRB members, OGC/OIV staff, Pharmacy staff, EMS staff, and other end-users to understand field usage and resolve any existing data issues. 
+Documentation Creation: Develop detailed technical documentation, including mapping reports, data integrity guidelines, and maintenance instructions. 
+Project Management: Coordinate project activities, manage timelines, and ensure deliverables align with the overall project objectives. 
+
+Required/Desired Experience:
+
+Skills Qualification Competency Skills Data Analysis Advanced (7-9 Years) Skills Data Modeling Advanced (7-9 Years) Skills Microsoft SQL Server Advanced (7-9 Years) Skills SQL Advanced (7-9 Years) Skills Education Skills Excel Advanced (7-9 Years) Skills Data Analytics Specialist Advanced (7-9 Years)
+
+About Vector
+
+Vector Consulting, Inc., (Headquartered in Atlanta) is an IT Talent Acquisition Solutions firm committed to delivering results. Since our founding in 1990, we have been partnering with our customers, understanding their business, and developing solutions with a commitment to quality, reliability and value. Our continuing growth has been and continues to be built around successful relationships that are based on our organization's operating philosophy and commitment to ** People, Partnerships, Purpose and Performance - THE VECTOR WAY
+
+www.vectorconsulting.com
+
+“Celebrating 30 years of service.”
+
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236278624/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=9SP%2FfMn7OuZuXSGwIdH9vg%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #4 ---
+Job Text:
+Prodigy Resources hiring
+Share
+Show more options
+Data Analyst
+Chula Vista, CA · 1 hour ago · 33 applicants
+Remote Part-time
+See how you compare to 33 applicants. Try Premium for $0
+Easy Apply
+Save
+Save Data Analyst at {:companyName}
+Meet the hiring team
+Wiilder Mejiia
+3rd+
+Impresor en Vys digital
+Job poster
+Message
+About the job
+Data Analyst
+
+JOB DESCRIPTION:
+POSITION - Online Data Entry Clerk
+JOB TYPE - Full-Time / Part-Time
+
+REQUIREMENTS -
+I. Must be 20 Years Old & Above
+II. Basic English Proficiency
+
+SALARY -$ 150 + Per Day (Plus Commission)
+
+WORKING HOURS - 2-4 Hours / Day
+
+BENEFITS -
+I. Flexible Working Hours
+II. Daily Pay
+III. No Hidden Fees will be charges
+iv. No Contract Restriction
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills added by the job poster
+Data Analysis · Ad Hoc Analysis · Analytical Skills · Data Analytics · Data Science · Data Visualization · Mathematics · Microsoft Power BI · SQL · Statistics
+Add skills you have to your profile to stand out to the employer. Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Millions of members use Premium
+Try Premium for $0
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+Job Link: https://www.linkedin.com/jobs/view/4239156958/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=NCVmB1ZF7cb6HePhfhQ7mQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #5 ---
+Job Text:
+Air Apps
+Share
+Show more options
+Data Analyst 
+San Francisco, CA · Reposted 3 hours ago · Over 100 people clicked apply
+On-site Full-time Mid-Senior level
+Curious where you stand? See how you compare to over 100 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Analyst  at Air Apps
+About the job
+About Air Apps
+
+At Air Apps, we believe in thinking bigger—and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal & Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018—and now with offices in both Lisbon and San Francisco—we’ve remained self-funded while reaching over 100 million downloads worldwide.
+
+Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the globe.
+
+Join us on this journey to redefine resource management—and change lives along the way.
+
+The Role
+
+As a Data Analyst at Air Apps, you will be responsible for analyzing and interpreting data to drive business insights and optimize product performance. You will create reports, dashboards, and performance metrics to help teams make informed decisions and improve user experience.
+
+This role requires a data-driven mindset, strong analytical skills, and experience with visualization tools to turn complex data into actionable insights.
+
+Responsibilities
+
+Analyze user behavior, product performance, and key business metrics to identify trends and opportunities.
+Create and maintain interactive dashboards and reports using tools like Tableau, Looker, Power BI, or Google Data Studio.
+Collect, clean, and structure large datasets to ensure accuracy and usability.
+Define and track KPIs for marketing, product, and business performance.
+Work with SQL, Python, or R to extract, analyze, and manipulate data.
+Collaborate with product managers, engineers, and marketing teams to provide data-driven insights.
+Conduct A/B testing and experiment analysis to improve product features and user engagement.
+Identify bottlenecks and opportunities in user journeys and customer funnels.
+Present findings in a clear and compelling way to stakeholders and leadership teams.
+Stay up to date with industry trends, analytics best practices, and emerging data tools.
+
+Requirements
+
+Around 3+ years of experience in data analysis, business intelligence, or a related field.
+Proficiency in SQL for data querying and manipulation.
+Experience with data visualization tools (Tableau, Looker, Power BI, Google Data Studio).
+Strong analytical skills with experience in Python or R for data analysis.
+Knowledge of A/B testing methodologies and statistical analysis.
+Experience with Google Analytics, Mixpanel, Amplitude, or similar user analytics tools.
+Strong problem-solving skills and ability to communicate insights to non-technical stakeholders.
+Experience working with large datasets and cloud-based data warehouses (BigQuery, Redshift, Snowflake).
+Familiarity with ETL processes and data pipeline optimization is a plus.
+Ability to work in a fast-paced, data-driven environment and manage multiple projects.
+
+What benefits are we offering?
+
+Apple hardware ecosystem for work.
+Annual Bonus.
+Medical Insurance (including vision & dental).
+Disability insurance - short and long-term.
+401k up to 4% contribution.
+Air Stipend of $3,120/year, paid over 12 monthly installments (for home office, learning, wellness, etc.).
+Air Conference 2025 in Las Vegas – an opportunity to meet the team, collaborate, and grow together.
+
+Diversity & Inclusion
+
+At Air Apps, we are committed to fostering a diverse, inclusive, and equitable workplace. We enthusiastically welcome applicants from all backgrounds, experiences, and perspectives. We celebrate diversity in all its forms and believe that varied voices and experiences make us stronger.
+
+Application Disclaimer
+
+At Air Apps, we value transparency and integrity in our hiring process. Applicants must submit their own work without any AI-generated assistance. Any use of AI in application materials, assessments, or interviews will result in disqualification.
+Benefits found in job post
+401(k)
+Medical insurance
+Disability insurance
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4202012455/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=%2F5mRSpJBXLi2w1%2BMZIVD%2Fw%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #6 ---
+Job Text:
+Patriot Strategies, LLC
+Share
+Show more options
+Data Analyst
+Alexandria, VA · 2 hours ago · Over 100 applicants
+Starting at $93K/yr Remote Full-time
+See how you compare to over 100 other applicants. Try Premium for $0
+Easy Apply
+Save
+Save Data Analyst at Patriot Strategies, LLC
+Meet the hiring team
+William Basnett 
+3rd+
+Operational Program Manager and Talent Acquisition & HR Leader
+Job poster
+Message
+About the job
+TData Analyst
+
+Job Summary:
+
+We are seeking highly skilled professionals as we support the Sexual Assault Prevention and Response Office (SAPRO) Integrated Program Operations, Research, and Technical Support contract vehicle to provide critical support services for the Department of Defense. If you are a results-driven individual with a passion for leveraging data-driven insights to optimize business operations, we encourage you to apply for this exciting opportunity.
+
+The Sexual Assault Prevention and Response Office (SAPRO) is responsible for the oversight of the Department of Defense’s sexual assault policy. SAPRO works hand-in-hand with the services and civilian community to develop and implement innovative prevention and response program.
+
+Duties/Responsibilities:
+
+1 to 3 years of experience
+Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information.
+Experience with R coding and working with large data sets required.
+Ability to work independently and to carry out assignments to completion within parameters of instructions given, prescribed routines, and standard accepted practices.
+Must be able to work under pressure and meet deadlines, while maintaining a positive attitude and providing exemplary customer service.
+Detail-oriented, flexible, proactive, and able to multitask and apply critical thinking to task management.
+Ability to quickly adapt to changing client priorities and respond to short deadline, ad hoc requests.
+Self-starter, multi-tasker and thrive in a changing, fast-paced environment.
+Possession of excellent analysis and data gathering skills, as well as excellent oral and written communication skills.
+Strong background in public health, sociology, or other social science.
+Must live within 50-mile radius of Alexandria, VA.
+NACI Clearance (Current or recent CAC) preferred.
+
+Education: 
+
+B.A./B.S.
+Employer-provided
+Pay range in Alexandria, VA
+Exact compensation may vary based on skills, experience, and location.
+Base salary
+Starting at $93,000/yr
+Featured benefits
+Medical insurance
+Vision insurance
+Dental insurance
+401(k)
+Disability insurance
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Requirements added by the job poster
+1+ years of work experience with R (Programming Language)
+Working in a remote setting
+Can start immediately
+Skills added by the job poster
+Data Analysis · Analytical Skills · Communication · Mathematics · Problem Solving · Python (Programming Language) · R (Programming Language) · Sociology · Statistics · Written Communication
+Add skills you have to your profile to stand out to the employer. Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Millions of members use Premium
+Try Premium for $0
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+Job Link: https://www.linkedin.com/jobs/view/4239146312/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=h8Pk4asb28ouspy0MDg3ZQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #7 ---
+Job Text:
+ZenBusiness
+Share
+Show more options
+Senior Data Analyst
+Austin, TX · 2 hours ago · 43 people clicked apply
+Remote Full-time Mid-Senior level
+Curious where you stand? See how you compare to 43 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Senior Data Analyst at ZenBusiness
+About the job
+Who We Are
+
+We started our company to help others launch and run their own businesses, at any stage. The way we help is by keeping it simple and supporting entrepreneurs one step at a time. Put simply: our mission is to enable anyone to start, run, and grow their business while avoiding the common pitfalls that derail hopeful entrepreneurs. No more having to wade through forms, taxes, or ongoing state compliance.
+
+We are a remote company based in Austin, Texas. We have team members from Florida to Oregon and all points in-between. Take pride in your work knowing that it shapes how people all across the country reach their goal of starting, running, and growing their business.
+
+If the idea of helping people and working with a genuinely caring, supportive team excites you, then you've come to the right place.
+
+The Role
+
+We're looking for a Senior Product Analyst to join our growing Data team and help drive data-informed decision-making across the company. In this role, you'll partner closely with cross-functional stakeholders to surface insights, improve business performance, and enable scalable analytics.
+
+You'll bring strong analytical thinking, technical skills, and business acumen to uncover opportunities, design KPIs, and influence product and strategy decisions. This is a remote position reporting to the Sr. Manager of Data Analytics.
+
+Responsibilities
+
+Product & Business Data Analytics & Reporting
+
+Collaborate with Product Managers and cross-functional teams to analyze user behavior, experiment outcomes, and product performance.
+Translate complex data into clear, actionable insights that inform product roadmaps and feature prioritization.
+Build dashboards and reports in Tableau to support product, marketing, and finance leaders.
+Conduct exploratory analysis, funnel analysis, segmentation, and cohort tracking to drive engagement and retention strategies.
+
+KPI Ownership & Collaboration
+
+Define and track key performance indicators (KPIs) across product and business domains.
+Partner with stakeholders to ensure metrics are clearly understood, consistently calculated, and tied to company goals.
+Identify trends, diagnose anomalies, and recommend course corrections in collaboration with business owners.
+
+Technical Skills & Data Transformation
+
+Expertise in SQL to query, analyze, and transform data efficiently.
+Strong understanding of semantic layers to enable scalable, self-serve analytics across the company.
+Proficiency in Snowflake for data warehousing and advanced analytics.
+Advanced Tableau skills for building interactive dashboards and data visualizations.
+Experience with dbt (data build tool) is strongly desirable, as it enables efficient data transformation and modeling.
+Conduct data modeling and predictive analytics to support business initiatives.
+Develop a foundational understanding of Python for analytics projects that require deeper data science techniques.
+Navigate GitHub to review key tables created by Engineering
+Document insights and collaborate effectively using Confluence.
+
+Qualifications
+
+5+ years in product analytics, business intelligence, or data roles in high-growth tech environments.
+Bachelor's degree in Business, Economics, Statistics, Finance, Computer Science, or a related field.
+Expertise in SQL, Tableau, and Snowflake.
+Familiarity with experimentation design and analysis (A/B testing).
+Strong analytical and problem-solving skills with the ability to translate data into meaningful business insights.
+Experience automating reporting processes.
+Excellent communication and collaboration skills, with the ability to present insights clearly to stakeholders.
+Ability to thrive in a fast-paced, evolving business environment.
+
+Bonus Qualifications
+
+macOS and G-Workspace knowledge is a plus.
+Experience with dbt is a plus, particularly for financial data transformation and modeling.
+Experience working with B2B SaaS or marketplace platforms.
+Python knowledge for advanced analytics or modeling.
+
+Remote Culture. A great company culture leads to happy employees, and happy employees lead to happy customers. We provide our employees with good salaries, benefits, equity, and interesting challenges that have a positive impact.
+
+Let's stay connected! We believe in staying connected, and we have a weekly "All Hands" meeting every week. We also have a social committee that hosts frequent events. We've held a virtual talent show, costume competitions, monthly lunch and learn series, Hackathons and more!
+
+Benefits. The company offers various benefits to employees and their dependents, including medical, vision, dental, disability, and life insurance, as well as parental and military leave. Other benefits include an employee assistance program, 401k + match, annual bonus, pet insurance, and RSUs. Paid parking* and 10 paid holidays are also provided. 
+
+Diversity, Equity and Inclusion. We believe in diversity, equity & inclusion. At ZenBusiness, every voice counts no matter your race, ethnicity, gender, sexual orientation, age, location, or background. We celebrate the diversity of our teams, knowing that our products, services, and customers thrive best when we lean into and celebrate our differences.
+
+Please check out our careers' page to learn more about our culture, benefits, and open opportunities.
+
+applicable to in-office employees
+Benefits found in job post
+Disability insurance
+401(k)
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4239137754/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=WhdoFQXV8QGHvQIPbfgnww%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #8 ---
+Job Text:
+Blackbird Recruiting
+Share
+Show more options
+Data Analyst
+Orangeburg, NY · 1 hour ago · 95 applicants
+On-site Full-time
+See how you compare to 95 applicants. Try Premium for $0
+Easy Apply
+Save
+Save Data Analyst at Blackbird Recruiting
+About the job
+Excel Data Analyst
+Orangeburg, NY
+
+$55,000 - 65,000
+
+Our client, a Benefits and Enrollment provider, is seeking a skilled Data Processor/Analyst to join their team. The ideal candidate will be responsible for analyzing and managing large sets of data related to the healthcare industry. This person must be highly proficient in Excel and its advanced functions, with a strong ability to work independently as well as collaboratively within a team. This is a great position to break into the industry.
+
+Responsibilities:
+
+Analyze, interpret, and present large datasets related to healthcare clients.
+Develop and maintain Excel reports, ensuring data accuracy and consistency.
+Use advanced Excel functions (such as Pivot Tables, VLOOKUP, INDEX/MATCH, and macros) to organize and manipulate data.
+Collaborate with other team members to provide actionable insights based on data analysis.
+Identify trends, patterns, and anomalies in data to help improve business processes.
+Prepare data visualizations and reports to communicate findings to stakeholders.
+Ensure data integrity and implement data validation processes.
+
+Qualifications:
+
+Related experience working with data analytics in coursework in a previous role
+Exceptional Excel skills, including advanced functions and data analysis tools.
+Ability to manage and analyze large datasets with precision and attention to detail.
+Strong problem-solving skills and the ability to derive meaningful insights from complex data.
+Excellent communication skills, both verbal and written.
+Ability to work both independently and as part of a collaborative team.
+
+Preferred:
+
+Experience in the healthcare or benefits industry is a huge plus.
+Familiarity with other data analysis tools or platforms (e.g., SQL, Power BI).
+
+Benefits:
+  Compensation is based on experience and knowledge/skill, however, we have some of the best comp packages;
+Employer-contributed health insurance;
+Employer-sponsored Dental & Vision ins, Telemed, EAP, TeleVET, and life insurance;
+Generous Holiday and PTO
+Professional yet warm & friendly office environment
+Refreshments (fully stocked kitchen :) and outings!
+
+Benefits found in job post
+Medical insurance
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Requirements added by the job poster
+Commute to this job's location
+Authorized to work in the United States
+No need for visa sponsorship
+Skills added by the job poster
+Data Analysis · Analytical Skills · Attention to Detail · Business Insights · Data Analytics · Data Integrity · Microsoft Excel · Pivot Tables · Problem Solving · Statistics
+Add skills you have to your profile to stand out to the employer. Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Millions of members use Premium
+Try Premium for $0
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+Job Link: https://www.linkedin.com/jobs/view/4239154657/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=dDGpr87yOrJ3eZuhBZBCvQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #9 ---
+Job Text:
+State Street
+Share
+Show more options
+Data Office - Data Analyst, Officer 
+Boston, MA · Reposted 2 hours ago · Over 100 people clicked apply
+On-site Full-time
+Curious where you stand? See how you compare to over 100 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Office - Data Analyst, Officer  at State Street
+About the job
+Who We Are Looking For
+
+We are looking for a Data engineer for Cloud Data Lake activities. The candidate should have industry experience (preferably in Financial Services) in supporting enterprise applications, and exposure to Cloud based Data engineering platforms. This hands-on role will partner with senior-level development managers, architects and business leadership to develop and execute the technology product roadmap in driving Data Governance policy implementation.
+
+The candidate should have industry experience (preferably in Financial Services) in supporting enterprise applications and exposure to Cloud based engineering platforms.
+
+What You Will Be Responsible For
+
+ Collaborate with cross-functional teams to understand project requirements, user stories and translate them into functional, technical requirements.
+ Document requirements for manual and automated testing of AWS-based applications, Databricks, and ETL backend systems using Java, Selenium.
+ Design, develop, and maintain automated test scripts to ensure efficient regression testing and maximum test coverage.
+ Execute performance testing to evaluate system scalability, reliability, and efficiency.
+ Hands on experience analyzing, documenting Business Requirements document, Functional requirement document, Data flows ,Business rules, data mapping, use cases and Traceability Matrix.
+ Ability to translate business to functional/technical requirements, with experience in Data Analysis, Data mapping, Requirements gathering, Data Visualization
+ Responsible for building out intuitive data visualization dashboard/reports. Discover and analyze data insights using visualization tools.
+ Seek opportunities to improve efficiency and scalability for the current system in use in terms of data structure and process improvement.
+
+
+What We Value
+
+These skills will help you succeed in this role
+
+Strong skill-set, experience in Python, Scala/PySpark, PL/SQL, PERL/scripting .
+Skilled Data Engineer for Cloud Data Lake activities. The candidate should have industry experience (preferably in Financial Services) in navigating enterprise Cloud applications using distributed computing frameworks as Apache Spark, Hadoop, Hive.
+Working knowledge of optimizing database performance, scalability, ensuring data security and compliance.
+
+
+Education & Preferred Qualifications
+
+Bachelor’s/Master's Degree in a Computer Science, Engineering or Math or equivalent experience
+2+ years' experience in professional software design and development.
+Strong analytical skills, with ability to collect, absorb, and analyze information quickly and independently
+Proven ability to develop and work with cross functional processes and project timelines
+Excellent follow-through, attention to detail and time management skills 
+Adapt and excel at managing multiple simultaneous tasks in a high pressure, deadline environment.
+
+
+Salary Range
+
+$75,000 - $120,000 Annual
+
+The range quoted above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range could differ.
+
+Job Application Disclosure
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+State Street's Speak Up Line
+
+Job ID: R-771216
+Qualifications
+Add skills based on your experience as Data Analyst to stand out
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4217641725/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=T9wjhskGZYWtYGNhgQ%2B84A%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #10 ---
+Job Text:
+UAB Medicine
+Share
+Show more options
+Human Resources Data Analyst 
+Greater Birmingham, Alabama Area · 2 hours ago · 19 people clicked apply
+On-site Full-time Entry level
+Curious where you stand? See how you compare to 19 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Human Resources Data Analyst  at UAB Medicine
+About the job
+Compensation  : 
+
+Pay Range: $63,875 - $103,800/year 
+
+ Benefits available for eligible positions include: 100% tuition assistance, wellness initiatives, generous paid time off, paid parental leave, Public Service Loan Forgiveness Program eligible employer, plus more. In addition to our many benefits and perks , UAB Medicine provides a variety of resources to support employees both personally and professionally.
+
+ Work with the Best at UAB Medicine   : 
+
+UAB Medicine is Alabama’s largest single-site employer and operates over 1,200 beds and over 200 clinics in  Birmingham  ,Alabama. When you become part of UAB Medicine, you join a  nationally ranked academic medical center  committed to education and advancing medical science through research.
+
+U.S. News & World Report's Best Hospitals, #1 in Alabama
+ America’s No. 1 Best Large Employer,Forbes, 2021
+ Level I Trauma Center
+ NCI-Designated Comprehensive Cancer Center, Comprehensive Transplant Institute, Comprehensive Stroke Center
+
+Our success in patient care, innovation, and education is a direct result of oursupportive and inclusive culture. Whether you are looking to start your career, fast-track your development, or diversify your skills,UAB Medicine offers avenues for advancement that other employers cannot match. 
+
+General Responsibilities
+
+The HR Data Analyst provides professional level support for all aspects of major Human Resources programs and initiatives impacting UAB Medicine. This position works with various systems, associated systems, databases, and modules that comprise UAB Medicine HR operations. This position will collect, compile, and analyze HR data and metrics, including development of visualizations to present to leadership with recommendations and insights.
+
+Key Duties & Responsibilities
+
+ Performs data analytic duties:
+ Participates in the collection, calculation, reporting and analysis of HR metrics
+ Demonstrates proficiency in utilizing HR information systems to gather data for analysis
+ Produces reports, dashboards, and presentations utilizing Microsoft Word, Excel, PowerPoint, SPSS, Tableau, and/or other data processing/visualization tool from data extracted from various HR information systems and other data sources
+ Develops methods for the ongoing tracking of identified metrics – potential areas for reporting include, but are not limited to, turnover and retention, talent acquistion, compensation, performance management, employee experience, training and development, workforce demographics, benchmark comparisons, and HR operations
+ Interprets results from analysis and advises HR and organization leaders
+ Produces both routine and ad hoc reports
+ Prepares procedures for thorough documentation of processes
+ Collaborates with systems analysts:
+ May collaborate or serve as backup administrator for various HR systems including but not limited to Leader Evaluation Manager (LEM), employee experience platform, performance evaluation system, and applicant tracking system (ATS)
+ Assists with validating data integrity and management of data interfaces
+ Proactively participate in job-related meetings/webinars and other activities to achieve and maintain a high level of expertise of working and enhancing functionality of the system(s)
+ Performs survey administration:
+ May assist with employee related survey efforts as requested by UAB Medicine leadership including hierarchy planning, data organization, creating participant files
+ Serves as resources for assigned departments during all phases of survey administration
+ Aides with results analysis through preparing routine reports
+ Supports functional operations of HR:
+ Attend staff meetings and completes all mandatory training
+ Participate in HR functions impacting all HR staff
+ May lead projects and activities
+ Remains committed to personal continuing education and professional growth:
+ Pursue learning opportunities that would promote the success of the duties of this position
+ Serves as a valued resources to both internal and external customers
+ Shares knowledge and skills through meetings and presentations
+ Performs other duties as assigned
+
+Minimum Requirements
+
+Bachelor’s degree in Business, Information Technology, or related field, and two (2) years of equivalent experience required. Work experience may substitute for education requirement. Proficiency in Microsoft Word, Excel, and PowerPoint required.Strong experience with HR system data management and reporting required.Experience with Tableau, Access, SPSS, and/or SharePoint preferred.
+
+Knowledge / Skills / Abilities
+
+Strong analytical and problem-solving skills
+
+Excellence in planning and organizing
+
+Skilled in accurately working with various forms of electronic data
+
+Ability to work in a collaborative environment involving multiple stakeholders
+
+Familiarity with UAB Medicine HR policies and procedures to effectively resolve issues using sound judgment
+
+Primary Location
+
+UAB Health System
+
+Job Category
+
+Human Resources
+
+Organization
+
+690000000 Office of Executive Director Health System
+
+Employee Status
+
+Regular
+
+Job Level
+
+Mid-Level
+
+Shift
+
+Day/1st Shift
+Benefits found in job post
+Tuition assistance
+Qualifications
+Add skills based on your experience as Data Analyst to stand out
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4239140324/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=%2BVQsMVcGcUrq0UY0i%2F2TiQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #11 ---
+Job Text:
+Sony Honda Mobility of America
+Share
+Show more options
+Product Quality Data Analyst
+Los Angeles, CA · 2 hours ago · 65 people clicked apply
+On-site Full-time Mid-Senior level
+Curious where you stand? See how you compare to 65 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Product Quality Data Analyst at Sony Honda Mobility of America
+About the job
+Join Sony Honda Mobility of America Inc.
+
+Sony Honda Mobility of America Inc. is a proud subsidiary of Sony Honda Mobility Inc., a 50/50 joint venture between Sony and Honda, headquartered in Tokyo, Japan. Our American headquarters in Culver City, California, established in March 2023, is at the forefront of bringing the innovative electric vehicle, AFEELA, to the US market. AFEELA embodies the essence of "FEEL," creating an interactive relationship where people and mobility connect through advanced sensing and network technologies.
+
+At Sony Honda Mobility of America, we are dedicated to moving people through innovative solutions inspired by diversity. Join us in shaping the future of mobility with creativity, technology, and a commitment to excellence. Apply now to make a difference!
+
+Position Summary
+
+Sony Honda Mobility of America (SHMA) is seeking a highly analytical and technically skilled Product Quality Data Analyst to join our After-Sales Market Quality team. In this role, you will monitor and analyze a wide range of quality-related data—from warranty claims to telematics and social media—to detect trends, identify quality concerns, and support initiatives that drive continuous product improvement and customer satisfaction.
+
+You will also design dashboards, manage business systems, and ensure seamless data integration to support fast, informed decisions across the organization. This role is ideal for a detail-driven analyst who excels at interpreting data from various sources and transforming insights into actionable strategies.
+
+Key Responsibilities
+
+Monitor and analyze after-sales data from sources including warranty claims, CRM/customer support cases, telematics, infotainment logs, NHTSA reports, and OTA/software incidents. 
+Identify trends, anomalies, and emerging quality issues to support product improvement and customer satisfaction. 
+Design and maintain dashboards using Tableau and Microsoft Excel, including advanced Excel modeling and data visualization. 
+Develop data visualizations and monitoring tools for internal platforms and warranty systems. 
+Manage business systems related to quality improvement, claims analysis, and reimbursement tracking. 
+Maintain data integrity, control access permissions, and ensure reliable system integrations between internal and external tools. 
+Support development of automation tools and light IT solutions to improve operational efficiency. 
+Develop and optimize tools for market sentiment tracking using platforms such as Sprinklr. 
+Track and manage data field structures, usage rates, and coordinate system updates with IT teams. 
+Prepare reports and executive summaries highlighting product quality trends, KPIs, and strategic insights. 
+Represent market quality interests in cross-functional meetings and interdepartmental projects. 
+
+Required Qualifications For Position
+
+Bachelor’s degree in Data Science, Engineering, Business Analytics, Information Systems, or a related field—or equivalent work experience. 
+2–5 years of experience in data analytics, automotive quality, or related technical fields. 
+Advanced Excel user with strong modeling, pivot table, dashboarding, and data visualization skills. 
+Strong proficiency in Tableau, with experience building executive dashboards. 
+Experience using Atlassian tools (JIRA, Confluence). 
+Familiarity with CRM systems such as Salesforce, and experience working with telematics and infotainment log data. 
+Coding skills in Python and SQL; basic Java knowledge is a plus. 
+Understanding of warranty systems and post-sales quality operations. 
+
+Preferred Qualifications For Position
+
+Experience analyzing OTA data, NHTSA reports, and diagnostic trouble codes (DTCs). 
+Familiarity with social listening tools like Sprinklr and using AI/ML techniques for trend analysis. 
+Background in EV, automotive, or mobility startup environments. 
+Experience with mobile application performance tracking and reporting. 
+
+Additional Details
+
+Work Arrangement: Primarily on-site in Culver City, CA, transitioning to Torrance, CA in Fall 2025. 
+Travel Requirements: Occasional domestic travel for quality investigations or system coordination. 
+Visa Sponsorship: Not available for this position. 
+
+Benefits
+
+Comprehensive medical, dental, and vision benefits
+Flexible Working Policy
+Paid parental leave
+401k Program
+“Take What You Need” time off policy, with a minimum of 15 days off per year, and holiday breaks
+Yearly bonuses (subject to eligibility)
+Company phone (subject to eligibility)
+Company swag
+A brand new laptop and monitor
+Special discounts on Sony products
+Learning and Development quarterly stipend
+More to come!
+
+The anticipated annual base salary for this position is $95,000- $105,000. This range does not include any other compensation components or other benefits that an individual may be eligible for. The actual base salary offered depends on a variety of factors, which may include as applicable, the qualifications of the individual applicant for the position, years of relevant experience, specific and unique skills, level of education attained, certifications or other professional licenses held, and the location in which the applicant lives and/or from which they will be performing the job. 
+
+Sony Honda Mobility of America is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex (including pregnancy), gender, national origin, citizenship, ancestry, age, physical or mental disability, military status, status as a veteran or disabled veteran, sexual orientation, gender identity or expression, marital or family status, genetic information, medical condition, or any other basis protected by applicable federal, state, or local law, ordinance, or regulation.
+
+Disability Accommodation for Applicants
+
+Sony Honda Mobility of America provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at SHMA-Recruiting@sony-honda-mobility.com Please indicate the position you are applying for.
+
+Benefits found in job post
+401(k)
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236247226/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=TYeP3vtc0csImIdKNYvfYA%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #12 ---
+Job Text:
+Motional
+Share
+Show more options
+Associate Data Analyst, AV Performance Analysis 
+Las Vegas, NV · 2 hours ago · Over 100 applicants
+Full-time
+See how you compare to over 100 other applicants. Try Premium for $0
+Easy Apply
+Save
+Save Associate Data Analyst, AV Performance Analysis  at Motional
+About the job
+The Associate Data Analyst is a critical contributor within Global Operations, working at the intersection of data engineering and business analytics. You’ll design scalable data models, build production-ready pipelines, and develop self-service analytics that enable fast, informed decision-making across the organization. You’ll partner closely with AV test, systems, safety, and software teams to ensure data is not just accurate, but actionable. Your insights will directly influence operational execution, testing efficiency, and the performance of our autonomous vehicle technology—providing operational leadership and executives with a clear view into the analytical performance of our self-driving product.
+
+Essential Duties:
+
+Primarily responsible for querying, analyzing, auditing, and presenting data reports on a variety of AV performance metrics to support AV Testing, Global Operations and executive leadership group.
+Support metrics storytelling, dashboard creation, and performance deep dives—translating complex trends into executive-ready insights.
+Develop and maintain clean, production-ready datasets that power reporting in Looker, Redash, and other visualization tools.
+Design and implement scalable data pipelines using tools like dbt, Python, and AWS to ingest, transform, and structure AV operational data.
+Apply best practices in data modeling, testing, version control, and documentation to ensure reproducibility and scalability.
+Perform comprehensive quality assurance, ensuring that data meet specifications and reports remain accurate and reliable even in the face of process and tool changes.
+Partner with Operations and Testing stakeholders to maintain a rapid and iterative feedback loop for metrics creation and monitoring.
+Proactively communicate insights and contribute to leadership reviews and team presentations.
+Collaborate with colleagues across different time zones and countries, which may require additional and/or non-standard working hours during any given week to work on projects or attend required meetings.
+Show initiative and be a valued team member in our innovative, fast-paced, entrepreneurial environment where cooperative teamwork across locations is the norm.
+Other duties as assigned including travel to other Motional sites
+
+Required Qualifications:
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The requirements listed below are representative of knowledge, skill and/or ability required.
+
+Bachelor's or higher degree in a quantitative field -- including but not limited to Engineering, Mathematics, Economics, or equivalent knowledge and work experience.
+2+ years of experience working in analytics engineering, data analytics, data science, or a similar technical role.
+Proficient in SQL.
+Demonstrated problem solving skills and exemplary attention to detail.
+Strong troubleshooting, debugging, and creative problem solving skills. 
+
+Preferred Skills:
+
+Proficient in SQL, with the ability to write optimized and maintainable queries.
+Experience with business intelligence methodologies and a strong understanding of statistics.
+Entry to moderate level experience with Linux and scripting languages (E.g: Bash/Shell, Python).
+Entry to moderate level experience with software engineering concepts, including requirements analysis, source control, build processes, design reviews. 
+Experience using issue tracking and configuration management tools (E.g: Atlassian Confluence, Jira, Bitbucket, Git).
+ Familiarity with Jira (or similar issue tracking systems)
+
+Physical Demands:
+
+While performing the duties of this job, the employee is frequently required to sit, talk, or hear. The employee is occasionally required to stand and at times for long periods; walk; use hands to finger, handle, or feel; reach with hands and arms. The employee must occasionally lift and move up to 50 pounds.
+
+Travel Requirements (~10%): expected to travel for about 1 week each quarter visiting all of our testing sites, but also domestically as needed for the business.
+
+Working Environment:
+
+The work environment characteristics described here represent those a team member encounters while performing the essential functions of this job. Reasonable accommodation may be made to enable individuals with disabilities to perform essential functions.
+
+While performing the duties of this job, the team member is regularly exposed to outside weather conditions, road conditions, and pedestrian traffic. The team member is regularly exposed to mechanical and computer parts. The team member is occasionally exposed to fumes and airborne particles. The noise level in the environment is low to moderate. When traveling, the team members will be exposed to airports, airplanes, hotels and public transportation environments.
+
+The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. Candidates for certain positions are eligible to participate in Motional’s benefits program. Motional’s benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.
+
+Salary Range: $68,000 USD - $86,000 USD
+
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We’re driven by something more.
+
+Our journey is always people first.
+
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+
+Higher purpose, greater impact.
+
+We’re creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it’s not only good for our business, it’s the right thing to do.
+
+Scale up, not starting up.
+
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We’re driven to scale; we’re moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Instagram and YouTube.
+
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.
+Benefits found in job post
+401(k)
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236021488/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=XpE1mXhwHhP%2BQ6fXTlm0ew%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #13 ---
+Job Text:
+Khan Academy
+Share
+Show more options
+Data Analyst, District Success
+Mountain View, CA · Reposted 3 hours ago · Over 100 people clicked apply
+Remote Full-time Entry level
+Curious where you stand? See how you compare to over 100 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Analyst, District Success at Khan Academy
+About the job
+About Khan Academy
+
+Khan Academy is a nonprofit with the mission to deliver a free, world-class education to anyone, anywhere. Our proven learning platform offers free, high-quality supplemental learning content and practice that cover Pre-K - 12th grade and early college core academic subjects, focusing on math and science. We have over 155 million registered learners globally and are committed to improving learning outcomes for students worldwide, focusing on learners in historically under-resourced communities.
+
+OUR COMMUNITY 
+
+Our students, teachers, and parents come from all walks of life, and so do we. Our team includes people from academia, traditional/non-traditional education, big tech companies, and tiny startups. We hire great people from diverse backgrounds and experiences because it makes our company stronger. We value diversity, equity, inclusion, and belonging as necessary to achieve our mission and impact the communities we serve. We know that transforming education starts in-house with learning about ourselves and our colleagues. We strive to be world-class in investing in our people and commit to developing you as a professional.
+
+THE ROLE
+
+Khan Academy is looking for a Data Analyst to join our growing team. This role will be responsible for enabling data-driven decisions for our Districts team. The ideal candidate will have strong analytical skills, a passion for clean and actionable data, and experience delivering reports and insights that drive business impact. Your work will focus on three key areas: business intelligence, custom reporting & analytics, and data management.
+
+What You'll Do
+
+Business Intelligence
+
+Design, build, and maintain accurate dashboards and reports to monitor key metrics in our BI tool, Looker.
+Provide actionable insights and recommendations to drive performance improvements.
+Partner with stakeholders to deeply understand the qualitative aspects of the data, measure KPIs and ensure alignment on goals.
+
+Custom Reporting & Analytics 
+
+Work with our district stakeholders (internal and external) to understand unique data needs and deliver tailored reports that are built on our existing reporting
+Build ad hoc queries and custom reporting to address specific questions and challenges for the internal District team
+Translate complex data sets into clear, digestible presentations for non-technical audiences
+
+Data Management
+
+Ensure data accuracy, completeness, and security through rigorous processes and controls.
+Collaborate with relevant operations & engineering teams to improve data reliability and accuracy
+Adhere to data governance policies to enhance data quality and consistency
+
+What You Bring
+
+2+ years of experience as a Business Intelligence Analyst, preferably in an edtech or B2B environment.
+Proficiency in SQL and experience working with large datasets.
+Expertise with using and creating data models for business intelligence tools (e.g., Looker).
+Familiarity with data management tools and practices (e.g., ETL processes, data validation).
+Strong analytical mindset with the ability to derive insights from data.
+Exceptional communication skills, capable of translating technical data into actionable insights.
+Proven cross-cultural competency skills demonstrating self-awareness, awareness of other, and the ability to adopt inclusive perspectives, attitudes, and behaviors to drive inclusion and belonging throughout the organization.
+Attention to detail and a commitment to data accuracy and integrity.
+Motivated by the Khan Academy mission “to provide a free world-class education for anyone, anywhere."
+
+Perks And Benefits
+
+We may be a non-profit, but we reward our talented team extremely well! We offer:
+
+Competitive salaries
+Ample paid time off as needed – Your well-being is a priority.
+Remote-first culture - that caters to your time zone, with open flexibility as needed, at times
+Generous parental leave
+An exceptional team that trusts you and gives you the freedom to do your best
+The chance to put your talents towards a deeply meaningful mission and the opportunity to work on high-impact products that are already defining the future of education
+Opportunities to connect through affinity, ally, and social groups
+And we offer all those other typical benefits as well: 401(k) + 4% matching & comprehensive insurance, including medical, dental, vision, and life
+
+At Khan Academy we are committed to fair and equitable compensation practices, the well-being of our employees, and our Khan community. This belief is why we have built out a robust Total Rewards package that includes competitive base salaries, and extensive benefits and perks to support physical, mental, and financial well-being.
+
+The target salary range for this position is $107,712 - $134,640 USD / $145,552 - $181,940 CAD. The pay range for this position is a general guideline only. The salary offered will depend on internal pay equity and the candidate’s relevant skills, experience, qualifications, and job market data. Exceptional performers in this role who make an outsized contribution can make well in excess of this range. Additional incentives are provided as part of the complete total rewards package in addition to comprehensive medical and other benefits.
+
+More About Us
+
+Sal’s TED talk from 2011
+Sal’s TED talk from 2015
+Sal's TED talk from 2023
+Our team: http://www.khanacademy.org/about/the-team
+
+Our Company Values
+
+Live & breathe learners
+
+We deeply understand and empathize with our users. We leverage user insights, research, and experience to build content, products, services, and experiences that our users trust and love. Our success is defined by the success of our learners and educators.
+
+Take a stand
+
+As a company, we have conviction in our aspirational point of view of how education will evolve. The work we do is in service to moving towards that point of view. However, we also listen, learn and flex in the face of new data, and commit to evolving this point of view as the industry and our users evolve.
+
+Embrace diverse perspectives
+
+We are a diverse community. We seek out and embrace a diversity of voices, perspectives and life experiences leading to stronger, more inclusive teams and better outcomes. As individuals, we are committed to bringing up tough topics and leaning into different points of view with curiosity. We actively listen, learn and collaborate to gain a shared understanding. When a decision is made, we commit to moving forward as a united team.
+
+Work responsibly and sustainably
+
+We understand that achieving our audacious mission is a marathon, so we set realistic timelines and we focus on delivery that also links to the bigger picture. As a non-profit, we are supported by the generosity of donors as well as strategic partners, and understand our responsibility to our finite resources. We spend every dollar as though it were our own. We are responsible for the impact we have on the world and to each other. We ensure our team and company stay healthy and financially sustainable.
+
+Bring out the joy
+
+We are committed to making learning a joyful process. This informs what we build for our users and the culture we co-create with our teammates, partners and donors.
+
+Cultivate learning mindset
+
+We believe in the power of growth for learners and for ourselves. We constantly learn and teach to improve our offerings, ourselves, and our organization. We learn from our mistakes and aren’t afraid to fail. We don't let past failures or successes stop us from taking future bold action and achieving our goals.
+
+Deliver wow
+
+We insist on high standards and deliver delightful, effective end-to-end experiences that our users can rely on. We choose to focus on fewer things — each of which aligns to our ambitious vision — so we can deliver high-quality experiences that accelerate positive measurable learning with our strategic partners.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, gender, gender identity or expression, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status. We value diversity, equity, and inclusion, and we encourage candidates from historically underrepresented groups to apply.
+
+As part of this commitment, Khan Academy will ensure that persons with disabilities are provided reasonable accommodations for the hiring process. If reasonable accommodation is needed, please contact careers@khanacademy.org
+Benefits found in job post
+401(k)
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4229382921/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=l3nQ69tnSPeeXMWbOdUA7A%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #14 ---
+Job Text:
+Motional
+Share
+Show more options
+Copy of Associate Data Analyst, AV Performance Analysis 
+Pittsburgh, PA · 2 hours ago · 76 applicants
+Full-time
+See how you compare to 76 applicants. Try Premium for $0
+Easy Apply
+Save
+Save Copy of Associate Data Analyst, AV Performance Analysis  at Motional
+About the job
+The Associate Data Analyst is a critical contributor within Global Operations, working at the intersection of data engineering and business analytics. You’ll design scalable data models, build production-ready pipelines, and develop self-service analytics that enable fast, informed decision-making across the organization. You’ll partner closely with AV test, systems, safety, and software teams to ensure data is not just accurate, but actionable. Your insights will directly influence operational execution, testing efficiency, and the performance of our autonomous vehicle technology—providing operational leadership and executives with a clear view into the analytical performance of our self-driving product.
+
+Essential Duties:
+
+Primarily responsible for querying, analyzing, auditing, and presenting data reports on a variety of AV performance metrics to support AV Testing, Global Operations and executive leadership group.
+Support metrics storytelling, dashboard creation, and performance deep dives—translating complex trends into executive-ready insights.
+Develop and maintain clean, production-ready datasets that power reporting in Looker, Redash, and other visualization tools.
+Design and implement scalable data pipelines using tools like dbt, Python, and AWS to ingest, transform, and structure AV operational data.
+Apply best practices in data modeling, testing, version control, and documentation to ensure reproducibility and scalability.
+Perform comprehensive quality assurance, ensuring that data meet specifications and reports remain accurate and reliable even in the face of process and tool changes.
+Partner with Operations and Testing stakeholders to maintain a rapid and iterative feedback loop for metrics creation and monitoring.
+Proactively communicate insights and contribute to leadership reviews and team presentations.
+Collaborate with colleagues across different time zones and countries, which may require additional and/or non-standard working hours during any given week to work on projects or attend required meetings.
+Show initiative and be a valued team member in our innovative, fast-paced, entrepreneurial environment where cooperative teamwork across locations is the norm.
+Other duties as assigned including travel to other Motional sites
+
+Required Qualifications:
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The requirements listed below are representative of knowledge, skill and/or ability required.
+
+Bachelor's or higher degree in a quantitative field -- including but not limited to Engineering, Mathematics, Economics, or equivalent knowledge and work experience.
+2+ years of experience working in analytics engineering, data analytics, data science, or a similar technical role.
+Proficient in SQL.
+Demonstrated problem solving skills and exemplary attention to detail.
+Strong troubleshooting, debugging, and creative problem solving skills. 
+
+Preferred Skills:
+
+Proficient in SQL, with the ability to write optimized and maintainable queries.
+Experience with business intelligence methodologies and a strong understanding of statistics.
+Entry to moderate level experience with Linux and scripting languages (E.g: Bash/Shell, Python).
+Entry to moderate level experience with software engineering concepts, including requirements analysis, source control, build processes, design reviews. 
+Experience using issue tracking and configuration management tools (E.g: Atlassian Confluence, Jira, Bitbucket, Git).
+ Familiarity with Jira (or similar issue tracking systems)
+
+Physical Demands:
+
+While performing the duties of this job, the employee is frequently required to sit, talk, or hear. The employee is occasionally required to stand and at times for long periods; walk; use hands to finger, handle, or feel; reach with hands and arms. The employee must occasionally lift and move up to 50 pounds.
+
+Travel Requirements (~10%): expected to travel for about 1 week each quarter visiting all of our testing sites, but also domestically as needed for the business.
+
+Working Environment:
+
+The work environment characteristics described here represent those a team member encounters while performing the essential functions of this job. Reasonable accommodation may be made to enable individuals with disabilities to perform essential functions.
+
+While performing the duties of this job, the team member is regularly exposed to outside weather conditions, road conditions, and pedestrian traffic. The team member is regularly exposed to mechanical and computer parts. The team member is occasionally exposed to fumes and airborne particles. The noise level in the environment is low to moderate. When traveling, the team members will be exposed to airports, airplanes, hotels and public transportation environments.
+
+The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. Candidates for certain positions are eligible to participate in Motional’s benefits program. Motional’s benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.
+
+Salary Range: $68,000 USD - $86,000 USD
+
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We’re driven by something more.
+
+Our journey is always people first.
+
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+
+Higher purpose, greater impact.
+
+We’re creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it’s not only good for our business, it’s the right thing to do.
+
+Scale up, not starting up.
+
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We’re driven to scale; we’re moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Instagram and YouTube.
+
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.
+Benefits found in job post
+401(k)
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236021495/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=mnYnRVK4jC7FWUo015lhDQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #15 ---
+Job Text:
+Office of the NYS Comptroller Thomas P. DiNapoli
+Share
+Show more options
+Data Analyst 2, SG-23 Item# 00761 
+Albany, NY · Reposted 2 hours ago · 23 people clicked apply
+$86.7K/yr - $109.6K/yr Hybrid Full-time Entry level
+Curious where you stand? See how you compare to 23 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Analyst 2, SG-23 Item# 00761  at Office of the NYS Comptroller Thomas P. DiNapoli
+About the job
+Duties Description
+
+This position is located within the Bureau of Actuarial, Division of Retirement Services and is responsible for:
+
+ Data Analytics Program Design, Implementation, and Development
+Initiate and build relationships across a diverse set of stakeholders. 
+Guide data driven decision making across the organization. 
+Judge new data sources and analytical tools. 
+Design data for analysis. 
+Investigate patterns and trends in data. 
+Design dashboards based on customer use cases. 
+Train others to use dashboards. 
+Effectively communicate results to non-technical audience. 
+Recommend appropriate solutions and software tools to fit the customer use case. 
+ Supervision of Data Analytics staff
+Supervise subordinate staff and interns as appropriate. 
+Create subordinate assignments, set priorities, and prepare realistic time estimates. 
+Assist staff in addressing technical and functional issues. 
+Review subordinate’s deliverables to ensure data analytics best practice is met. 
+Participate in developing and preparing employee Performance Evaluation assessments and provide performance feedback at frequent intervals. 
+Develop, organize, and schedule training activities for subordinate staff. 
+ Coordination with Data Analytics Staff
+Receive training from the Data Analytics Team and train others. 
+Collaborate at staff meetings and in communities of practice. 
+Assist staff in addressing technical and functional issues. 
+Develop best practices and create procedures for business processes. 
+ Tableau Administration Support
+Manage Tableau project permissions. 
+Publish Tableau dashboards to public server. 
+Troubleshoot and resolve Tableau issues as reported by users. 
+Research new and existing Tableau features. 
+ Data Analytics within the Business Unit
+Develop, maintain, and support data-related processes. 
+Scrutinize data for anomalies and propose corrective measures. 
+Research new data sources and analytical tools and recommend superior methods. 
+Support customer ad-hoc requests. 
+
+Minimum Qualifications
+
+One (1) year of permanent service as a Data Analyst 1.
+
+OR
+
+A bachelor’s degree in data or computer science, informatics, economics, statistics, mathematics, or a related field*; AND three (3) years of experience in data visualization, and statistical models and data mining tools.
+
+Substitution:
+
+A master’s degree in the above fields may substitute for one (1) year of the specialized experience.
+
+A Ph.D. in the above fields may substitute for two (2) years of the specialized experience.
+
+Additional Comments
+
+Knowledge, skills, and abilities:
+
+ Ability to present data with formatting suitable for non-technical users. 
+ Ability to develop solutions where customer needs are not precisely defined. 
+ Expertise in visualization tools such as Tableau or OBIEE. 
+ Expertise with data querying languages (such as SQL) and programming languages (such as PL\SQL, R, or Python). 
+ Strong verbal and written communication skills. 
+ Managerial experience. 
+ Desire to improve processes. 
+
+Telecommuting: The Office of the New York State Comptroller (OSC) supports telecommuting where it is reasonable to do so based upon the agency’s mission and operational needs. Generally, employees new to OSC will be restricted from telecommuting for at least 8 calendar weeks. After the initial 8 calendar week restriction, if an employee’s primary residence location, duties, and work performance are aligned with telecommuting and operational needs they may be allowed to do so. Generally, OSC employees may telecommute up to 5 days per pay period but may be approved to telecommute less.
+
+Reasonable Accommodation: The NYS Office of the State Comptroller provides reasonable accommodations to applicants with disabilities. If you need reasonable accommodation for any part of the application and hiring process, please notify the Division of Human Resources at (518) 474-1924.
+
+Equal Opportunity Employment: The Office of the NYS Comptroller values a workforce with a broad, diverse range of backgrounds and perspectives. All employees are expected to contribute to a professional environment focused on self-evaluation and improvement, as well as acceptance and support of coworkers.
+
+The Office of the State Comptroller (OSC) does not participate in E-Verify and does not sponsor visa applications.
+
+OSC offers competitive salaries and benefits, and opportunities for advancement, continuing education, and professional development. We provide a professional environment where employees are encouraged to push themselves while maintaining work-life balance. Our generous benefits package includes:
+
+ A state pension with vesting after five years’ service
+ Comprehensive medical, dental and vision insurance available to all employees and their dependents
+ Flexible spending accounts for dependent and health care
+ Productivity Enhancement Program (PEP), allowing eligible employees to exchange previously accrued leave in return for a credit to be applied toward their health insurance
+ Public Service Loan Forgiveness (PSLF)
+ NYS Deferred Compensation plan
+ Access to NY 529 and NY ABLE College Savings Programs, and U.S. Savings Bonds
+ Holiday and paid time off
+ Shift and geographic pay differentials
+ A committed continuous learning environment
+ Informational Brown Bag sessions
+ Wellness at Work Programs to promote employee health and wellness
+ OSC Mentoring Program to network, contribute, and provide an opportunity to strengthen competencies in a variety of areas
+ And much more
+Employer-provided
+Pay range in Albany, NY
+Exact compensation may vary based on skills, experience, and location.
+Base salary
+$86,681/yr - $109,650/yr
+Benefits found in job post
+Vision insurance
+Medical insurance
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4229184299/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=HW8mPUsjHTk9iuUgCvxA5g%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #16 ---
+Job Text:
+Designit
+Share
+Show more options
+Data Analyst - Dallas
+Dallas, TX · 2 hours ago · 93 people clicked apply
+Hybrid Full-time Entry level
+Curious where you stand? See how you compare to 93 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Data Analyst - Dallas at Designit
+About the job
+This is a contract, hybrid position through December 31, 2025. 
+
+Want to be part of an amazing team, hell-bent on crafting a better future? We're always looking for creative people who care!
+
+We are analysts. Creators. Designers. Doers. Dreamers. Explorers. Geeks. Hipsters. Leaders. Learners. Renegades. Seekers. Strategists. Visionaries. And we fundamentally believe that we're better together.
+
+Join us in shaping the future of empowered product teams.
+
+This job drives best-in-class analytics across our enterprise client's website, mobile app, and airport technologies. Works with different digital products and teams to understand business needs and provide data-backed insights into customer behavior to improve experience on our digital and airport technology assets. Collaborates with Product Management, Data Engineering, Customer Insights, User Experience and other external stakeholders evangelizing databased decision making, supporting site enhancements, monitoring the website app, and airport technologies for potential issues and analyzing visitor behavior supporting our OKRs. Job will mix short term ad hoc stakeholder requests with long term projects and support. Opportunities to share work with leadership and peers and strong team mentality working with other.
+
+Would you like to...
+
+Works with different customer technology teams to create health monitoring dashboards and alerts for all products using tools like Adobe Analytics, Azure Databricks, Teradata, Qualtrics, Celebrus and Quantum Metrics
+Utilizes data to break down issues and identify root causes impacting system health
+Builds dashboards, ad-hoc reports, and deep dives measuring OKRs
+Partners with different product teams on identifying and tracking relevant OKRs
+Helps connect the dots between digital data and data from other sources to drive deeper insights and analysis on customer behavior
+Works with stakeholders within digital and outside to efficiently track and monitor digital voice of the customer, drive insights and identify areas of opportunity
+Prepares updates for leadership team and stakeholder teams
+Evangelizes, leads and drives greater adoption of digital analytical tools within digital and outside through training sessions and office hours
+Shares best practices and develop systems knowledge to deliver new reports and enhance existing reports to meet business needs
+
+We would like you to have... 
+
+2-4+ years of experience and skills with
+PowerBI/Tableau
+SQL
+Python
+Preferred Qualifications
+
+Adobe Analytics / Google Analytics, Quantum Metric 
+Driven and self-motivated. Does not shy away from hard problems. Passionate about data. Good communicator at all levels. 
+This is a contract, hybrid position located in Dallas, TX (onsite 3 days per week). 
+
+Would you like to work for an organization that…
+
+Embraces work-life balance – our employees' well-being remains a top priority for us
+Promotes a culture of learning and advocacy across the globe - diversity will enable us to strengthen our impact
+Offers a comprehensive benefits package effective Day 1. Options include health, vision, & dental insurance, FSAs, discounts on pet insurance, PTO, paid holidays, and more
+Encourages innovation and experimentation
+Emphasizes and rewards collaboration
+
+Compensation: $50-$55/Hr
+
+This compensation range is indicative of the role. Compensation offered is on the basis of evaluation during interview process, the candidates range and depth of experience, business and market financials and internal pay parity.
+
+Please note that all official communications regarding this job opportunity will be sent from email addresses ending with @designit.com. Be cautious of any correspondence originating from other email domains and refrain from sharing personal information in such cases.
+
+Want to know more?
+
+Check us out at https://www.designit.com/. Just so you know, we don't have a dress code, but we do have a strict no jerk policy.
+
+Designit is committed to ensuring that all candidates have an equal opportunity to be considered for employment. Please let us know if you need any reasonable accommodation to participate in the job application or interview process.
+Benefits found in job post
+Dental insurance
+Qualifications
+You may be a good fit based on your experience as Data Analyst
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4239138166/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=v0xaQeQnq9WFV79E20o7gw%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #17 ---
+Job Text:
+Tata Consultancy Services
+Share
+Show more options
+Senior Data Analyst 
+Richardson, TX · 2 hours ago · 44 people clicked apply
+On-site Full-time Mid-Senior level
+Curious where you stand? See how you compare to 44 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Senior Data Analyst  at Tata Consultancy Services
+About the job
+Must Have Technical/Functional Skills
+
+Work within a data engineering team to synthesize business requirements and priorities, develop corresponding technical requirements, document data scenarios, and validate proposed and coded solutions
+Review vendor/partner data and Surest capabilities to create data definitions, transformation logic, and data organization options based on business requirements
+Contribute to the data processing design and development process, providing inputs based on completed analysis and data mappings
+Become a SME on the processes and flow of data throughout the technical and business platform
+Support development and deployment of data processing pipelines
+Translate data analysis and business logic into documentation that can be understood by broad audiences
+Analyze Surest healthcare data to elicit patterns in the data that can be communicated to data engineers to optimize the processing, quality and storage of the data
+Collaborate with data and quality engineers on data pipeline development to ensure adherence to requirements, data quality and testing completeness
+
+Analyze new and existing data requests to support new requirements definitions and data pipeline development
+
+Roles & Responsibilities
+
+Undergraduate degree or equivalent experience
+3+ years of experience writing complex SQL for the purposes of data analysis and discovery
+3+ years of experience creating technical analysis including documentation and communication with technical engineers and data customers
+3+ years of experience writing stories for software developers
+
+Preferred Qualifications
+
+Experience analyzing healthcare data (Enrollment, Claims, etc)
+Experience with Transactional and Data Lake data stores
+Experience working in highly matrixed, sometimes ambiguous, complex environments with multiple stakeholders
+Experience attending and participating in scrum agile ceremonies
+Experience identifying process improvements and implementing processes related to data pipeline effectiveness and efficiency
+Experience working with Databricks
+Experience developing in Python, Spark framework or some other programming language
+History tracking down stakeholders and subject matter experts to gather requirements and communicate existing state development
+Superior focus and high attention to detail
+
+Demonstrated clear, concise communication skills with strong ability to translate technical jargon into business understandings
+
+Salary Range: $110,000-$130,000 a year
+
+TCS Employee Benefits Summary
+
+Discretionary Annual Incentive.
+
+Comprehensive Medical Coverage: Medical & Health, Dental & Vision, Disability Planning & Insurance, Pet Insurance Plans.
+
+Family Support: Maternal & Parental Leaves.
+
+Insurance Options: Auto & Home Insurance, Identity Theft Protection.
+
+Convenience & Professional Growth: Commuter Benefits & Certification & Training Reimbursement.
+
+Time Off: Vacation, Time Off, Sick Leave & Holidays.
+
+Legal & Financial Assistance: Legal Assistance, 401K Plan, Performance Bonus, College Fund, Student Loan Refinancing.
+
+
+Desired Skills and Experience
+Python , SQL
+Benefits found in job post
+Disability insurance
+Commuter benefits
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236233766/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=GSI6Y08uJvmZHtUw9jzbpw%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #18 ---
+Job Text:
+Axelon Services Corporation
+Share
+Show more options
+Lead Data Analyst
+Philadelphia, PA · 2 hours ago · 39 applicants
+On-site Contract Mid-Senior level
+See how you compare to 39 applicants. Try Premium for $0
+Easy Apply
+Save
+Save Lead Data Analyst at Axelon Services Corporation
+About the job
+Job Title: Lead Data Analyst (Hybrid)
+Location: Philadelphia, PA 
+*Please include your Linkedin on your resume*
+ Qualifications:
+Experience & Domain Knowledge:  6+ years of experience in data analytics or a related field, with a substantial portion in the telecommunications industry preferably in the networking experienced in data analysis/data scientist roles.
+Data Analysis Skills: Exceptional analytical and problem-solving skills. Advanced proficiency in SQL for querying large databases and Python for data analysis (pandas, numpy, etc.) and scripting.
+You can efficiently manipulate and analyze large datasets to extract meaningful insights.
+AI/ML & LLM Proficiency: Experience with machine learning or advanced analytics techniques.
+Exposure to AI/ML frameworks (such as scikit-learn or TensorFlow) and familiarity with Large Language Models (LLMs) or natural language processing is a big plus – you’re comfortable exploring new AI-driven approaches to glean insights from data (structured or unstructured).
+Data Visualization:  Proficiency in creating clear and compelling dashboards and visualizations using Tableau or Power BI (or similar tools).
+You know how to tell a story with data, highlight key metrics, and make complex data understandable to non-technical stakeholders.
+Databricks & Big Data: Experience working with big data platforms like Databricks (or Spark) to perform distributed data processing and advanced analytics.
+Ability to optimize data workflows and handle large-scale data (e.g., streaming data from telecom networks or high-volume customer transaction data).
+Detail-Oriented & Quality-Focused: Demonstrated commitment to data quality and accuracy.
+Experience with data assurance practices, data governance, or QA in analytics projects – you ensure the insights you provide are rock-solid and reliable.
+Strategic Mindset: Ability to see the big picture and align analysis with business strategy.
+As a senior professional, you can prioritize analysis that drives strategic decisions and not just produce reports.
+You’re comfortable presenting to leadership and can translate data findings into strategic recommendations.
+Independent & Collaborative: Self-starter who can drive projects with minimal guidance, and a team player who collaborates well across departments. You can independently manage your workload and also work in tandem with others – for example, pairing with a data engineer to improve data pipelines or brainstorming with a product manager on what metrics best define success for a new initiative.
+ Education:
+A Bachelor’s or Master’s degree in a relevant field (e.g., Data Science, Statistics, Computer Science, Engineering, or Business).
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4236294908/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=637lMPmPlmBofLzA38mWpg%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #19 ---
+Job Text:
+State of Maryland
+Share
+Show more options
+CMMS Operations & Data Analyst Administrator I
+Maryland, United States · 2 hours ago · 5 people clicked apply
+Hybrid Full-time Mid-Senior level
+Curious where you stand? See how you compare to 5 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save CMMS Operations & Data Analyst Administrator I at State of Maryland
+About the job
+Introduction
+
+The Maryland Department of General Services (DGS) supports State and local government agencies, as well as local non-profit organizations and the citizens of Maryland, by providing facilities management, real estate and surplus property services, as well as security and law enforcement for State buildings. DGS is also responsible for a full spectrum of facilities engineering, design and construction services, almost $1 billion in annual contract administration, and overseeing the State procurement process. Here at DGS, we truly Do Great Service… Consider joining our team!
+
+GRADE
+
+16
+
+LOCATION OF POSITION
+
+Baltimore City - 301 W. Preston Street, Baltimore, MD 21201
+
+Main Purpose of Job
+
+Responsible for collecting, organizing and analyzing data to support the Office of Facilities Management in making informed operational decisions. Developing data models and dashboards with associated reports and visualization to communicate insights. Evaluates operational efficiency and develops, revises and recommends new policies, standards, workflow procedures. in pursuit of agency goals and KPIs. Tasked with establishing and maintaining automated reporting structures following cadences as required by leadership objectives. Lead projects to identify and leverage new technology where appropriate. Support administrative workflows in maintenance and management of agency relational databases such as a Computerized Maintenance Management System and/or Learning Management System.
+
+This position is eligible for a hybrid work schedule after 90-day evaluation.
+
+Minimum Qualifications
+
+ Education : Graduation from an accredited high school or possession of a high school equivalency certificate.
+
+ Experience : Four years of administrative staff or professional work.
+
+Notes
+
+ Candidates may substitute 30 college credit hours from an accredited college or university for each year up to four years of the required experience.
+ Candidates may substitute the possession of a Bachelor's degree from an accredited college or university for the required experience.
+ Candidates may substitute the possession of a Master's degree from an accredited college or university for the required experience.
+ Candidates may substitute U.S. Armed Forces military service experience as a commissioned officer involving staff work related to the administration of rules, regulations, policy, procedures and processes, or overseeing or coordinating unit operations or functioning as a staff assistant to a higher ranking commissioned officer on a year-for- year basis for the required experience.
+
+Desired Or Preferred Qualifications
+
+Strong preference will be given to applicants who possess the following preferred qualification(s) . Include clear and specific information on your application regarding all qualifications.
+
+Experience with Power BI (or equivalent) to include dashboard creation, and data visualization.
+Experience in data querying, data manipulation and performance optimization.
+Professional experience pulling data leveraging APIs, including their configuration and setup.
+Familiarity with principles for design & presentation to communicate data effectively.
+Experience working in a Computerized Maintenance Management System or industry adjacent databases.
+Experience developing and implementing data governance policies and procedures.
+Experience developing data models aligning with internal and external stakeholder needs.
+
+LICENSES, REGISTRATIONS AND CERTIFICATIONS
+
+Employees in this classification may be assigned duties which require the operation of a motor vehicle. Employees assigned such duties will be required to possess a motor vehicle operator's license valid in the State of Maryland.
+
+SELECTION PROCESS
+
+It is important that you provide complete and accurate information on your application. Please include all experience and education that is related to this position. All information concerning your qualifications must be submitted by the closing date; information submitted after the closing date will not be considered. Credit is given for relevant part-time, temporary or volunteer experience based on the number of hours worked per week; you must include the time spent on such activities on your application.
+
+ Note that for any position requiring a college degree or college credit, you will be required to submit a college transcript prior to being offered a position. You may submit your transcript as part of the application process. 
+
+The examination for this position will consist of a rating of your education, training and experience related to the requirements of the position. Successful candidates will be placed on the employment eligibility list categorized as BEST QUALIFIED, BETTER QUALIFIED, or QUALIFIED. The eligibility list will be valid for one year and may be extended. The list will be used by the hiring authority to select employees for interviews. Eligible lists may be used to fill future vacancies of the same classification.
+
+ Please note, selected candidates may be required to complete and successfully pass a State and Federal fingerprint background check prior to being hired. 
+
+You must be legally authorized under the United States Immigration Reform and Control Act to be hired in the position for which you apply.
+
+Benefits
+
+The State of Maryland offers a generous benefits package that includes:
+
+Tuition reimbursement for those who qualify 
+Flexible work schedules and telework opportunities for many positions 
+Free mass transit in Baltimore & Annapolis 
+Generous paid leave that increases with years of service 
+Paid holidays 
+Health coverage with low out-of-pocket costs 
+Employee & employer contributory pension plan 
+
+Click on the link below for more information.
+
+State Of Maryland Benefits
+
+FURTHER INSTRUCTIONS
+
+Contact Keri.Williams1@maryland.gov or call 410-767-5081 with questions about this recruitment. The online application process is STRONGLY preferred. Apply online at dgs.maryland.gov – Human Resources > Employment > Current Openings. If you are unable to submit your application online, please send your paper application to: Human Resources, Dept. of General Services, 301 W. Preston St., Suite 1311, Baltimore, MD 21201 by the closing date and time. TTY Users: call via Maryland Relay.
+
+As an equal opportunity employer, Maryland is committed to recruiting, retaining, and promoting employees who are reflective of the State’s diversity. People with disabilities and bilingual candidates are encouraged to apply. We thank our Veterans for their service to our country.
+Benefits found in job post
+Pension plan
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Job Link: https://www.linkedin.com/jobs/view/4239137717/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=FkVeaSBZAUFp8vFeSwQ%2FHQ%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+
+--- Job #20 ---
+Job Text:
+FSA
+Share
+Show more options
+Legal Assistant / Data Analyst Supporting the US Attorney's Office
+New York, NY · 3 hours ago · 6 people clicked apply
+On-site Full-time Entry level
+Curious where you stand? See how you compare to 6 others who clicked apply. Try Premium for $0
+Apply
+Save
+Save Legal Assistant / Data Analyst Supporting the US Attorney's Office at FSA
+About the job
+Be a part of the nationwide law enforcement initiative that removes the tools of crime from criminal organizations, depriving wrongdoers of proceeds from their crime and impacting the infrastructure of criminal enterprises. 
+
+FSA Federal (FSA) is focused on delivering unsurpassed services in support of law enforcement and homeland security. We currently have a vacancy for a Data Analyst. In this role, you will be supporting the overall mission of the United States Attorney's Office (USAO). If you are looking for a meaningful, mission driven career, Join FSA!
+
+Responsibilities
+
+ Receives, gathers, analyzes, and organizes information from multiple sources.
+ Ensures completeness of received information and reconciles inconsistencies.
+ Accurately enters required data into one or more databases, documents, or spreadsheets.
+ Establishes and maintains physical files.
+ Keeps track of case file status in order to ensure compliance with established deadlines.
+ Coordinates requests for additional information as needed.
+ Selects relevant information from a variety of sources in order to prepare documents, reports, summaries, and replies to inquiries, ensuring accuracy and proper format of the information provided.
+ Performs word processing relevant to case.
+ Provides accurate and timely status updates.
+ Performs other duties as assigned.
+
+,
+
+Requirements
+
+High School diploma or GED, Undergraduate degree preferred
+Ability to grasp and understand the organization and functions of the customer
+Meticulous data entry skills
+Excellent communication skills; oral and written
+Competence to review, interpret, and evaluate complex legal and non-legal documents 
+Attention to detail and the ability to read and follow directions is extremely important
+Strong organizational and prioritization skills
+Experience with the Microsoft Office suite of applications (Excel, PowerPoint, Word) and other common software applications, to include databases, intermediate skills preferred
+Proven commitment and competence to provide excellent customer service; positive and flexible
+Ability to work in a team environment and maintain a professional disposition
+
+This position requires U.S. Citizenship and a 7 (or 10) year minimum background investigation
+
+Agency Overview
+
+The United States Attorney's Office (USAO) serves as the nation's principal litigators under the direction of the Attorney General. The Asset Forfeiture Section at the USAO is responsible for the prosecution of both criminal and civil actions against property used or acquired during illegal activity. 
+
+Benefits Overview
+
+At FSA Federal, we recognize the diverse needs of our employees and strive to provide an excellent package to help meet those needs. Comprehensive benefits are offered with greater choice and flexibility to support your health, work-life balance, and professional growth. A package providing employee only coverage can be built around our basic plans at $0 employee cost for: Medical, Dental, Vision, Term Life Insurance, Accidental Death & Dismemberment Insurance, Short-Term Disability, and Employee Assistance Program. For more information, click here.
+
+, Consistent with our goal of empowering people, FSA is committed to providing all employees and employment candidates the right to equal employment opportunities and a harassment-free work environment free from retaliation. FSA’s employment practices are based on an individual’s capabilities and qualifications without regard to race, color, religion, sex (including transgender status, sexual orientation, and pregnancy), national origin, age (40 or older), disability, genetic information, veteran status, or any other category protected by federal, state, or local law. Equal employment opportunity applies to all policies and procedures including recruitment and hiring, promotions, transfers, and terminations, as well as compensation, benefits, and other terms and conditions of employment. Our long-term success depends upon our ability to attract, retain, and develop a workforce with the knowledge and skills needed to support the vital missions of our customers. FSA is proud to maintain a drug-free workplace. Satisfactory completion of a post-offer drug screening is a condition of employment. As a supplier of services to federal government agencies, such as DEA, FBI, USCIS, USPIS, etc., we also adhere to agency standards with respect to prior drug usage.
+Qualifications
+Job Link: https://www.linkedin.com/jobs/view/4239125863/?alternateChannel=search&refId=gYxlTHDWmscE83itA4G4Og%3D%3D&trackingId=KkfDUYHhv8iMBCeCO4pCCg%3D%3D&trk=d_flagship3_search_srp_jobs
+
+================================================================================
+

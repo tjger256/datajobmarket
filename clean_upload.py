@@ -42,7 +42,7 @@ def process_and_upload_keywords_to_sheets(df_keys, skills_sheet):
     set_with_dataframe(skills_sheet, df_keys, row=next_row, include_column_header=False)
     print(f"✅ Uploaded {len(df_keys)} skill rows to Google Sheets!")
 
-    return len(df_keys)
+    return df_keys, len(df_keys)
 
 
 def clean_and_upload_job_df(df, sheet, chunk_index):
@@ -150,38 +150,40 @@ def split_jobs_by_word_limit(file_path, max_words=15000):
 import os
 import pymysql
 from dotenv import load_dotenv
+import math
 
-load_dotenv()
-
-# 🔹 Setup RDS connection
-rds_conn = pymysql.connect(
-    host=os.getenv("RDS_HOST"),
-    user=os.getenv("RDS_USER"),
-    password=os.getenv("RDS_PASSWORD"),
-    database=os.getenv("RDS_DATABASE"),
-    charset="utf8mb4"
-)
-rds_cursor = rds_conn.cursor()
+def clean_value(val):
+    if pd.isna(val):
+        return None
+    if isinstance(val, float) and (math.isnan(val) or val == float('nan')):
+        return None
+    return val
 
 # 🔹 Upload jobs to RDS
-def upload_jobs_to_rds(df):
+def upload_jobs_to_rds(df, rds_conn, rds_cursor):
+    inserted_count = 0
+    skipped_count = 0
+
     for _, row in df.iterrows():
+        job_id = row.get("job_id")
+
+        if pd.isna(job_id):
+            print(f"⚠️ Skipping row — missing job_id: {row.to_dict()}")
+            skipped_count += 1
+            continue
+
         try:
-            rds_cursor.execute("""
-                INSERT INTO jobs (
-                    company_name, industries, job_title, city, state,
-                    employment_type, seniority_level, min_salary, max_salary,
-                    applicant_count, job_link, job_type, requirements,
-                    keywords, reposted, min_year_experience, hour_posted,
-                    date_imported, job_id, role, job_posted_time
-                )
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
-                        %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-                ON DUPLICATE KEY UPDATE
-                    applicant_count = VALUES(applicant_count),
-                    max_salary = VALUES(max_salary),
-                    min_salary = VALUES(min_salary)
-            """, (
+            # Convert reposted to 0/1 safely
+            reposted_raw = row.get("reposted")
+            if isinstance(reposted_raw, str):
+                reposted = 1 if reposted_raw.strip().lower() in ("yes", "true", "1") else 0
+            elif pd.isna(reposted_raw):
+                reposted = 0
+            else:
+                reposted = int(reposted_raw)
+
+            # Final list of values to insert
+            values = [
                 row.get("company_name"),
                 row.get("industry"),
                 row.get("job_title"),
@@ -196,22 +198,55 @@ def upload_jobs_to_rds(df):
                 row.get("job_type"),
                 row.get("requirements"),
                 row.get("keywords"),
-                row.get("reposted"),
+                reposted,  # already cleaned
                 row.get("min_year_experience"),
                 row.get("hour_posted"),
                 row.get("date_imported"),
-                int(row.get("job_id")),
+                int(job_id),  # must be valid int
                 row.get("role"),
                 row.get("job_posted_time")
-            ))
-        except Exception as e:
-            print(f"❌ Failed to insert job_id {row.get('job_id')}: {e}")
-    rds_conn.commit()
-    print("✅ Upload to RDS complete!")
+            ]
 
-def upload_keywords_to_rds(df_keys):
+            # Clean all values in the list
+            cleaned_values = tuple(clean_value(v) for v in values)
+
+            # Execute insert
+            rds_cursor.execute("""
+                INSERT INTO jobs (
+                    company_name, industries, job_title, city, state,
+                    employment_type, seniority_level, min_salary, max_salary,
+                    applicant_count, job_link, job_type, requirements,
+                    keywords, reposted, min_year_experience, hour_posted,
+                    date_imported, job_id, role, job_posted_time
+                )
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+                        %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                ON DUPLICATE KEY UPDATE
+                    applicant_count = VALUES(applicant_count),
+                    max_salary = VALUES(max_salary),
+                    min_salary = VALUES(min_salary)
+            """, cleaned_values)
+
+            inserted_count += 1
+
+        except Exception as e:
+            print(f"❌ Failed to insert job_id {job_id}: {e}")
+            skipped_count += 1
+
+    try:
+        rds_conn.commit()
+        print(f"✅ Upload to RDS complete! Inserted: {inserted_count}, Skipped: {skipped_count}")
+    except Exception as e:
+        print(f"❌ Commit failed: {e}")
+
+
+
+def upload_keywords_to_rds(df_keys, rds_conn, rds_cursor):
+    inserted_count = 0
+
     for _, row in df_keys.iterrows():
         try:
+            print(f"📥 Uploading: job={row['job_id']} keyword={row['keywords']}")
             rds_cursor.execute("""
                 INSERT INTO job_keywords (job, keywords)
                 VALUES (%s, %s)
@@ -220,7 +255,16 @@ def upload_keywords_to_rds(df_keys):
                 int(row["job_id"]),
                 row["keywords"]
             ))
+            inserted_count += 1
         except Exception as e:
             print(f"❌ Keyword insert failed for job_id {row['job_id']}: {e}")
-    rds_conn.commit()
-    print("✅ Keyword upload to RDS complete.")
+
+    try:
+        rds_conn.commit()
+        print(f"✅ Keyword upload to RDS complete. Rows inserted or updated: {inserted_count}")
+    except Exception as e:
+        print(f"❌ Commit failed: {e}")
+
+    return inserted_count
+
+    

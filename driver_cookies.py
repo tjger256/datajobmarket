@@ -52,7 +52,7 @@ def setup_driver(headless=False):
         options.add_argument("--disable-gpu")
 
     # Launch Chrome
-    driver = uc.Chrome(options=options, enable_automation=False, version_main=135)
+    driver = uc.Chrome(version_main=136, options=options, enable_automation=False)
     human_delay()
 
     # Load LinkedIn homepage

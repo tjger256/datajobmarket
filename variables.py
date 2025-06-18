@@ -1,42 +1,5 @@
-import time
-import random
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver import Keys, ActionChains
-from selenium.common.exceptions import NoSuchElementException, ElementNotInteractableException
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from dotenv import load_dotenv
-import os
-import pandas as pd
-import numpy as np
-from io import StringIO
-from datetime import datetime
-import gspread
-from gspread_dataframe import set_with_dataframe
-from oauth2client.service_account import ServiceAccountCredentials
-import undetected_chromedriver as uc
-import openai
-import re
-from selenium.common.exceptions import TimeoutException
-from google import genai
-
-
-urls = ["https://www.linkedin.com/jobs/search/?currentJobId=4205727374&distance=25&f_TPR=r86400&geoId=103644278&keywords=%22data%20analytics%22",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203732064&f_TPR=r86400&geoId=103644278&keywords=%22data%20analyst%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4200849863&f_TPR=r86400&geoId=103644278&keywords=%22data%20scientist%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4201325602&f_TPR=r86400&geoId=103644278&keywords=%22data%20engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4200953581&f_TPR=r86400&geoId=103644278&keywords=%22Machine%20Learning%20Engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203256390&f_TPR=r86400&geoId=103644278&keywords=%22AI%20Engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203246482&f_TPR=r86400&geoId=103644278&keywords=%22Infrastructure%20Engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4201105920&f_TPR=r86400&geoId=103644278&keywords=%22Platform%20Engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203536945&f_TPR=r86400&geoId=103644278&keywords=%22data%20architect%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4200953766&f_TPR=r86400&geoId=103644278&keywords=%22Cloud%20engineer%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203854911&f_TPR=r86400&geoId=103644278&keywords=%22Systems%20Architect%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4204505306&f_TPR=r86400&geoId=103644278&keywords=%22solutions%20architect%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4204400464&f_TPR=r86400&geoId=103644278&keywords=%22%20System%20Architect%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON",
-        "https://www.linkedin.com/jobs/search/?currentJobId=4203473557&f_TPR=r86400&geoId=103644278&keywords=%22Solution%20Architect%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+urls = ["https://www.linkedin.com/jobs/search/?currentJobId=4205727374&distance=25&f_TPR=r5400&geoId=103644278&keywords=%22data%20analytics%22",
+        "https://www.linkedin.com/jobs/search/?currentJobId=4203732064&f_TPR=r8400&geoId=103644278&keywords=%22data%20analyst%22&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
 ]
 skill_list = [
 "MongoDB","A/B", "A/B testing", "PowerBI", "Cassandra", "MariaDB", "DynamoDB", "Neo4j", "Couchbase", "SQL Server", "DB2", "MySQL", "Elasticsearch", "SQLite", "Redis", "Firebase", "PostgreSQL", "Hadoop", "Azure", "TensorFlow", "Spark", "PyTorch", "AWS", "Power BI", "Scala", "Keras", "Word", "SAS", "Excel", "Tableau", "Redshift", "NoSQL", "Terraform", "Kotlin", "Swift", "Drupal", "VMware", "CouchDB", "DataRobot", "MLR", "Snowflake", "Theano", "Heroku", "Airflow", "Java", "Colocation", "OpenStack", "Erlang", "NLTK", "Perl", "Zoom", "OpenCV", "Ansible", "Puppet", "Elixir", "Splunk", "Aurora", "Docker", "CodeCov", "Angular.js", "RShiny", "Tidyverse", "Kubernetes", "RingCentral", "Wire", "CSS", "Play Framework", "Airtable", "Pulumi", "Yarn", "Python", "GCP", "React.js", "Express", "Matplotlib", "macOS", "Fastify", "GDPR", "PHP", "Dlib", "DataBricks", "Django", "Unreal", "Clojure", "Groovy", "Flask", "IBM Cloud","IBM", "Seaborn", "Jenkins", "Linux", "Confluence", "Jupyter", "Unity", "GitHub", "Twilio", "Julia", "Laravel", "C#", "Selenium", "C++", "CentOS", "R", "jQuery", "SUSE", "MATLAB", "Flow", "PySpark", "RedHat", "Qlik", "Nuix", "Bash", "Bitbucket", "Spring", "Unify", "SQL", "Plotly", "Phoenix", "T-SQL", "PowerShell", "JavaScript", "Git", "Unix", "Flutter", "Jira", "HTML", "Mattermost", "Chef", "GitLab", "SVN", "ASP.NET Core","ASP.NET", "ASP", "SSIS", "Xamarin", "Sass", "NumPy", "Scikit-learn","scikitlearn", "ggplot2", "Pandas", "Oracle", "React", "Objective-C", "Alteryx", "Cognos", "DAX", "Assembly", "SSRS", "Visio", "Microsoft", "WebEx", "Ionic", "Symfony", "Dart", "Nuxt.js","nuxt", "CodeCommit", "Digital Ocean", "Spreadsheet", "MicroStrategy", "Google Sheets", "googlesheet","google sheet", "Microsoft Teams","Microsoft", "R IDE", "IDE", "Google Data Studio", "google studio", "QlikView", "Looker", "Sisense", "Domo", "TIBCO Spotfire", "TIBCO","Spotfire", "Superset", "Zoho", "Chartio", "Mode Analytics", "mode", "Datawrapper", "Klipfolio", "SPSS", "Stata", "KNIME", "RapidMiner", "Hive", "Pig", "NiFi", "Flink", "Sqoop", "BigQuery", "Data Factory", "Informatica", "Presto", "Data Integrator", "Kafka Connect","kafka", "Redash", "DBeaver", "Google Cloud", "Prometheus", "Grafana", "Packer", "HashiCorp Vault", "Istio", "Lucidchart", "Draw.io", "Enterprise Architect", "Archi", "Postman", "Swagger", "MuleSoft", "IBM", "Red Hat Fuse","redhatfuse", "NGINX", "HAProxy", "F5 BIG-IP", "bigip", "f5", "ServiceNow", "ELK Stack", "ELK", "Slack", "RStudio", "Anaconda", "IBM Watson","IBM","watson", "Colab", "H2O.ai","H2O", "Weka", "BigML", "MXNet", "Caffe", "ONNX", "MLflow", "Kubeflow", "TensorBoard", "SageMaker", "Google AI", "DVC", "CUDA", "cuDNN", "SciPy", "XGBoost", "LightGBM", "CatBoost", "DuckDB", "dbt", "Metabase", "Trino", "Starburst", "Amundsen", "Apache", "Delta Lake", "Iceberg", "Hudi", "MLlib", "Bedrock", "LangChain", "Hugging Face", "huggingface", "AutoML", "Vertex AI", "vetexai", "Dataform", "Prefect", "Evidently", "Feast", "Featuretools", "BentoML", "Streamlit", "Gradio", "Weights & Biases","weight and biases","weight and bias", "Neptune.ai", "Ray", "Dask", "RAPIDS", "Snowpark", "Synapse", "Azure ML", "Azure", "Databricks", "QuickSight", "Athena", "Glue", "AppFlow", "EventBridge", "CloudFormation", "CloudWatch", "IAM", "VPC", "ECS", "EKS", "API Gateway", "Step Functions", "CloudTrail", "Datadog", "New Relic", "relic", "OpenTelemetry", "Monte Carlo", "Alation", "Collibra", "Atlan", "Immuta", "Fivetran", "Stitch", "Hevo", "Airbyte", "RudderStack", "Census", "Hightouch", "Dagster", "Tecton", "DataHub", "MLReef", "Flyte", "Pachyderm", "ClearML", "Polyaxon", "Hopsworks", "Trifacta", "PowerCenter", "Google Cloud PLatform"
