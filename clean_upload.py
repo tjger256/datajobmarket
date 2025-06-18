@@ -261,7 +261,7 @@ def upload_keywords_to_rds(df_keys, rds_conn, rds_cursor):
 
     try:
         rds_conn.commit()
-        print(f"✅ Keywords upload to RDS complete. Rows inserted or updated: {inserted_count}")
+        print(f"✅ Keyword upload to RDS complete. Rows inserted or updated: {inserted_count}")
     except Exception as e:
         print(f"❌ Commit failed: {e}")
 
